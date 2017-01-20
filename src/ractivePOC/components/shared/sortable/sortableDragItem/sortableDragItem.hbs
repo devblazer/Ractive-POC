@@ -1,0 +1,7 @@
+<li on-dragstart="dragStart" on-dragend="dragEnd"
+    draggable="true" class="{{css.sortableDragItem+' '+(isDragging?css.isDragging:'')+' '+className}}" rel="{{key}}"
+>
+    <a>
+        {{yield}}
+    </a>
+</li>

@@ -1,0 +1,12 @@
+:local(.sortableDragList) {
+  margin: 20px;
+  padding: 5px;
+  background-color: #eee;
+  list-style: none;
+  display: block;
+  width: 200px;
+  min-height:400px;
+}
+:local(.isDropping) {
+
+}

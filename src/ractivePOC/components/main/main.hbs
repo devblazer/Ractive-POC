@@ -1,0 +1,12 @@
+<div class="{{css.main}}">
+    <SortableDragList className="{{currentInsertPoint=='list1'?css.insertAfter:''}}" key="list1">
+    {{#list1}}
+        <SortableDragItem className="{{currentInsertPoint==key?css.insertBefore:''}}" key="{{key}}">{{value}}</SortableDragItem>
+    {{/list1}}
+    </SortableDragList>
+    <SortableDragList className="{{currentInsertPoint=='list2'?css.insertAfter:''}}" key="list2">
+        {{#list2}}
+            <SortableDragItem className="{{currentInsertPoint==key?css.insertBefore:''}}" key="{{key}}">{{value}}</SortableDragItem>
+        {{/list2}}
+    </SortableDragList>
+</div>

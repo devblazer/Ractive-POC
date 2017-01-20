@@ -1,0 +1,16 @@
+:local(.main) {
+    width: 800px;
+
+    ul {
+        float: left;
+        margin-right: 20px;
+    }
+}
+:local(.insertAfter) {
+    li:last-child {
+        border-bottom: 1px dotted #000 !important;
+    }
+}
+:local(.insertBefore) {
+    border-top: 1px dotted #000 !important;
+}

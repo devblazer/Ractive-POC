@@ -1,0 +1,6983 @@
+{
+  "AS": {
+    "name": "Asia",
+    "participants": 1568707291,
+    "solo": 0.6098,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.2858,
+        "desktopPrev": 0.3146,
+        "tablet": 0.0659,
+        "tabletPrev": 0.0692,
+        "mobile": 0.1354,
+        "mobilePrev": 0.1451
+      },
+      "clicks": {
+        "desktop": 0.2474,
+        "desktopPrev": 0.2604,
+        "tablet": 0.0543,
+        "tabletPrev": 0.0531,
+        "mobile": 0.2726,
+        "mobilePrev": 0.2686
+      },
+      "revenue": {
+        "desktop": 0.2203,
+        "desktopPrev": 0.2358,
+        "tablet": 0.0945,
+        "tabletPrev": 0.0915,
+        "mobile": 0.5079,
+        "mobilePrev": 0.6158
+      }
+    },
+    "dimensions": {
+      "overall": 0.3695,
+      "overallPrev": 0,
+      "clicks": 0.0069,
+      "clicksPrev": 0,
+      "impressions": 0.4086,
+      "impressionsPrev": 0
+    }
+  },
+  "AFG": {
+    "name": "Afghanistan",
+    "participants": 11726327,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.4762,
+        "desktopPrev": 0.4076,
+        "tablet": 0.2223,
+        "tabletPrev": 0.2242,
+        "mobile": 0.0202,
+        "mobilePrev": 0.0276
+      },
+      "clicks": {
+        "desktop": 0.3755,
+        "desktopPrev": 0.3816,
+        "tablet": 0.1961,
+        "tabletPrev": 0.2285,
+        "mobile": 0.0254,
+        "mobilePrev": 0.0275
+      },
+      "revenue": {
+        "desktop": 1,
+        "desktopPrev": 1,
+        "tablet": 0.1603,
+        "tabletPrev": 0.136,
+        "mobile": 0.0134,
+        "mobilePrev": 0.0165
+      }
+    },
+    "dimensions": {
+      "overall": 0.61,
+      "overallPrev": 0.503,
+      "clicks": 0.0042,
+      "clicksPrev": 0.0061,
+      "impressions": 0.2309,
+      "impressionsPrev": 0.2798
+    },
+    "solo": 0.7178
+  },
+  "ARE": {
+    "name": "United Arab Emirates",
+    "participants": 912294,
+    "metrics": {
+      "conversions": {
+        "desktop": 1,
+        "desktopPrev": 0.8226,
+        "tablet": 0.0851,
+        "tabletPrev": 0.0616,
+        "mobile": 0.0285,
+        "mobilePrev": 0.0288
+      },
+      "clicks": {
+        "desktop": 1,
+        "desktopPrev": 0.9036,
+        "tablet": 0.0212,
+        "tabletPrev": 0.0234,
+        "mobile": 0.1209,
+        "mobilePrev": 0.1492
+      },
+      "revenue": {
+        "desktop": 0.562,
+        "desktopPrev": 0.6873,
+        "tablet": 0.217,
+        "tabletPrev": 0.1859,
+        "mobile": 0.1314,
+        "mobilePrev": 0.1155
+      }
+    },
+    "dimensions": {
+      "overall": 0.375,
+      "overallPrev": 0.4403,
+      "clicks": 0.0125,
+      "clicksPrev": 0.0135,
+      "impressions": 0.088,
+      "impressionsPrev": 0.0887
+    },
+    "solo": 0.8263
+  },
+  "ARM": {
+    "name": "Armenia",
+    "participants": 1705880,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.2491,
+        "desktopPrev": 0.2394,
+        "tablet": 0.0575,
+        "tabletPrev": 0.0489,
+        "mobile": 0.3698,
+        "mobilePrev": 0.4428
+      },
+      "clicks": {
+        "desktop": 0.0783,
+        "desktopPrev": 0.0714,
+        "tablet": 0.143,
+        "tabletPrev": 0.1698,
+        "mobile": 0.3692,
+        "mobilePrev": 0.3931
+      },
+      "revenue": {
+        "desktop": 0.0183,
+        "desktopPrev": 0.0203,
+        "tablet": 0.3137,
+        "tabletPrev": 0.2698,
+        "mobile": 0.0571,
+        "mobilePrev": 0.0618
+      }
+    },
+    "dimensions": {
+      "overall": 0.5643,
+      "overallPrev": 0.3787,
+      "clicks": 0.0205,
+      "clicksPrev": 0.0207,
+      "impressions": 0.0547,
+      "impressionsPrev": 0.0541
+    },
+    "solo": 0.9249
+  },
+  "AZE": {
+    "name": "Azerbaijan",
+    "participants": 3782272,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0699,
+        "desktopPrev": 0.0493,
+        "tablet": 0.2056,
+        "tabletPrev": 0.1643,
+        "mobile": 0.6861,
+        "mobilePrev": 0.7186
+      },
+      "clicks": {
+        "desktop": 0.0638,
+        "desktopPrev": 0.0548,
+        "tablet": 0.3554,
+        "tabletPrev": 0.3434,
+        "mobile": 0.2118,
+        "mobilePrev": 0.2765
+      },
+      "revenue": {
+        "desktop": 0.0165,
+        "desktopPrev": 0.017,
+        "tablet": 0.0443,
+        "tabletPrev": 0.0561,
+        "mobile": 0.839,
+        "mobilePrev": 0.62
+      }
+    },
+    "dimensions": {
+      "overall": 0.3959,
+      "overallPrev": 0.303,
+      "clicks": 0.0145,
+      "clicksPrev": 0.0148,
+      "impressions": 0.2673,
+      "impressionsPrev": 0.2288
+    },
+    "solo": 0.532
+  },
+  "BGD": {
+    "name": "Bangladesh",
+    "participants": 25802392,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.2221,
+        "desktopPrev": 0.202,
+        "tablet": 0.0743,
+        "tabletPrev": 0.0907,
+        "mobile": 0.3604,
+        "mobilePrev": 0.3024
+      },
+      "clicks": {
+        "desktop": 0.3275,
+        "desktopPrev": 0.4131,
+        "tablet": 0.0295,
+        "tabletPrev": 0.0255,
+        "mobile": 0.3633,
+        "mobilePrev": 0.2927
+      },
+      "revenue": {
+        "desktop": 0.2981,
+        "desktopPrev": 0.2847,
+        "tablet": 0.0062,
+        "tabletPrev": 0.0076,
+        "mobile": 0.4006,
+        "mobilePrev": 0.4043
+      }
+    },
+    "dimensions": {
+      "overall": 0.4888,
+      "overallPrev": 0.462,
+      "clicks": 0.0054,
+      "clicksPrev": 0.0076,
+      "impressions": 0.1905,
+      "impressionsPrev": 0.2038
+    },
+    "solo": 0.7913
+  },
+  "BRN": {
+    "name": "Brunei",
+    "participants": 349249,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.1961,
+        "desktopPrev": 0.2004,
+        "tablet": 0.1943,
+        "tabletPrev": 0.1986,
+        "mobile": 0.0402,
+        "mobilePrev": 0.034
+      },
+      "clicks": {
+        "desktop": 0.1176,
+        "desktopPrev": 0.1079,
+        "tablet": 0.2442,
+        "tabletPrev": 0.2007,
+        "mobile": 0.2821,
+        "mobilePrev": 0.2883
+      },
+      "revenue": {
+        "desktop": 0.2325,
+        "desktopPrev": 0.2318,
+        "tablet": 0.19,
+        "tabletPrev": 0.178,
+        "mobile": 0.0404,
+        "mobilePrev": 0.0455
+      }
+    },
+    "dimensions": {
+      "overall": 0.5453,
+      "overallPrev": 0.5622,
+      "clicks": 0.0123,
+      "clicksPrev": 0.0138,
+      "impressions": 0.5586,
+      "impressionsPrev": 0.5946
+    },
+    "solo": 0.7886
+  },
+  "BTN": {
+    "name": "Bhutan",
+    "participants": 368378,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0294,
+        "desktopPrev": 0.0358,
+        "tablet": 0.3468,
+        "tabletPrev": 0.3328,
+        "mobile": 0.1955,
+        "mobilePrev": 0.1717
+      },
+      "clicks": {
+        "desktop": 0.1254,
+        "desktopPrev": 0.123,
+        "tablet": 0.2356,
+        "tabletPrev": 0.2201,
+        "mobile": 0.0454,
+        "mobilePrev": 0.0394
+      },
+      "revenue": {
+        "desktop": 0.2424,
+        "desktopPrev": 0.2627,
+        "tablet": 0.1725,
+        "tabletPrev": 0.1301,
+        "mobile": 0.196,
+        "mobilePrev": 0.1844
+      }
+    },
+    "dimensions": {
+      "overall": 0.4697,
+      "overallPrev": 0.5246,
+      "clicks": 0.0012,
+      "clicksPrev": 0.001,
+      "impressions": 0.5024,
+      "impressionsPrev": 0.6941
+    },
+    "solo": 0.8641
+  },
+  "CHN": {
+    "name": "China",
+    "participants": 788099851,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.2527,
+        "desktopPrev": 0.3452,
+        "tablet": 0.0393,
+        "tabletPrev": 0.0332,
+        "mobile": 0.0246,
+        "mobilePrev": 0.0257
+      },
+      "clicks": {
+        "desktop": 0.2131,
+        "desktopPrev": 0.1942,
+        "tablet": 0.0165,
+        "tabletPrev": 0.0136,
+        "mobile": 0.1577,
+        "mobilePrev": 0.1676
+      },
+      "revenue": {
+        "desktop": 0.1498,
+        "desktopPrev": 0.17,
+        "tablet": 0.0316,
+        "tabletPrev": 0.03,
+        "mobile": 0.5736,
+        "mobilePrev": 0.8315
+      }
+    },
+    "dimensions": {
+      "overall": 0.5342,
+      "overallPrev": 0.451,
+      "clicks": 0.0068,
+      "clicksPrev": 0.0076,
+      "impressions": 0.5127,
+      "impressionsPrev": 0.6054
+    },
+    "solo": 0.5128
+  },
+  "GEO": {
+    "name": "Georgia",
+    "participants": 1859485,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.5455,
+        "desktopPrev": 0.5569,
+        "tablet": 0.1198,
+        "tabletPrev": 0.1236,
+        "mobile": 0.3156,
+        "mobilePrev": 0.2297
+      },
+      "clicks": {
+        "desktop": 0.0865,
+        "desktopPrev": 0.0765,
+        "tablet": 0.0578,
+        "tabletPrev": 0.0736,
+        "mobile": 0.3414,
+        "mobilePrev": 0.3897
+      },
+      "revenue": {
+        "desktop": 0.4835,
+        "desktopPrev": 0.5367,
+        "tablet": 0.1453,
+        "tabletPrev": 0.1355,
+        "mobile": 0.2257,
+        "mobilePrev": 0.1901
+      }
+    },
+    "dimensions": {
+      "overall": 0.3827,
+      "overallPrev": 0.3244,
+      "clicks": 0.0128,
+      "clicksPrev": 0.0165,
+      "impressions": 0.5714,
+      "impressionsPrev": 0.5945
+    },
+    "solo": 0.5283
+  },
+  "IDN": {
+    "name": "Indonesia",
+    "participants": 31980906,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.2437,
+        "desktopPrev": 0.2562,
+        "tablet": 0.1091,
+        "tabletPrev": 0.124,
+        "mobile": 0.0782,
+        "mobilePrev": 0.0954
+      },
+      "clicks": {
+        "desktop": 0.3342,
+        "desktopPrev": 0.263,
+        "tablet": 0.1227,
+        "tabletPrev": 0.1303,
+        "mobile": 0.5531,
+        "mobilePrev": 0.4243
+      },
+      "revenue": {
+        "desktop": 0.6094,
+        "desktopPrev": 0.5482,
+        "tablet": 0.136,
+        "tabletPrev": 0.1505,
+        "mobile": 0.5097,
+        "mobilePrev": 0.3458
+      }
+    },
+    "dimensions": {
+      "overall": 0.5979,
+      "overallPrev": 0.4752,
+      "clicks": 0.0165,
+      "clicksPrev": 0.0177,
+      "impressions": 0.2586,
+      "impressionsPrev": 0.2976
+    },
+    "solo": 0.5351
+  },
+  "IND": {
+    "name": "India",
+    "participants": 31834518,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.3902,
+        "desktopPrev": 0.3558,
+        "tablet": 0.101,
+        "tabletPrev": 0.0791,
+        "mobile": 0.0711,
+        "mobilePrev": 0.0711
+      },
+      "clicks": {
+        "desktop": 0.4148,
+        "desktopPrev": 0.5451,
+        "tablet": 0.0526,
+        "tabletPrev": 0.0519,
+        "mobile": 0.0935,
+        "mobilePrev": 0.0937
+      },
+      "revenue": {
+        "desktop": 0.5893,
+        "desktopPrev": 0.6253,
+        "tablet": 0.2373,
+        "tabletPrev": 0.1898,
+        "mobile": 0.2028,
+        "mobilePrev": 0.1883
+      }
+    },
+    "dimensions": {
+      "overall": 0.0519,
+      "overallPrev": 0.0426,
+      "clicks": 0.0272,
+      "clicksPrev": 0.0189,
+      "impressions": 0.111,
+      "impressionsPrev": 0.1234
+    },
+    "solo": 0.7799
+  },
+  "IRN": {
+    "name": "Iran",
+    "participants": 66423194,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.7322,
+        "desktopPrev": 0.5267,
+        "tablet": 0.001,
+        "tabletPrev": 0.0012,
+        "mobile": 0.2981,
+        "mobilePrev": 0.2933
+      },
+      "clicks": {
+        "desktop": 0.3614,
+        "desktopPrev": 0.5251,
+        "tablet": 0.0026,
+        "tabletPrev": 0.0028,
+        "mobile": 0.4857,
+        "mobilePrev": 0.475
+      },
+      "revenue": {
+        "desktop": 0.2637,
+        "desktopPrev": 0.3436,
+        "tablet": 0.0022,
+        "tabletPrev": 0.0028,
+        "mobile": 0.303,
+        "mobilePrev": 0.2744
+      }
+    },
+    "dimensions": {
+      "overall": 0.0752,
+      "overallPrev": 0.0922,
+      "clicks": 0.0027,
+      "clicksPrev": 0.0035,
+      "impressions": 0.3082,
+      "impressionsPrev": 0.2619
+    },
+    "solo": 0.6637
+  },
+  "IRQ": {
+    "name": "Iraq",
+    "participants": 7464625,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.146,
+        "desktopPrev": 0.1208,
+        "tablet": 0.0074,
+        "tabletPrev": 0.0062,
+        "mobile": 0.2848,
+        "mobilePrev": 0.2431
+      },
+      "clicks": {
+        "desktop": 0.1558,
+        "desktopPrev": 0.1463,
+        "tablet": 0.0112,
+        "tabletPrev": 0.01,
+        "mobile": 0.5344,
+        "mobilePrev": 0.5429
+      },
+      "revenue": {
+        "desktop": 0.8935,
+        "desktopPrev": 0.726,
+        "tablet": 0.0161,
+        "tabletPrev": 0.018,
+        "mobile": 0.1911,
+        "mobilePrev": 0.1958
+      }
+    },
+    "dimensions": {
+      "overall": 0.2701,
+      "overallPrev": 0.2266,
+      "clicks": 0.0127,
+      "clicksPrev": 0.0117,
+      "impressions": 0.6208,
+      "impressionsPrev": 0.4638
+    },
+    "solo": 0.8026
+  },
+  "ISR": {
+    "name": "Israel",
+    "participants": 2566834,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0724,
+        "desktopPrev": 0.0993,
+        "tablet": 0.2049,
+        "tabletPrev": 0.1782,
+        "mobile": 0.1108,
+        "mobilePrev": 0.1284
+      },
+      "clicks": {
+        "desktop": 0.3244,
+        "desktopPrev": 0.3494,
+        "tablet": 0.0955,
+        "tabletPrev": 0.1052,
+        "mobile": 0.3579,
+        "mobilePrev": 0.3497
+      },
+      "revenue": {
+        "desktop": 0.2517,
+        "desktopPrev": 0.2083,
+        "tablet": 0.0934,
+        "tabletPrev": 0.0901,
+        "mobile": 0.8312,
+        "mobilePrev": 0.6544
+      }
+    },
+    "dimensions": {
+      "overall": 0.3932,
+      "overallPrev": 0.3013,
+      "clicks": 0.0185,
+      "clicksPrev": 0.0255,
+      "impressions": 0.6545,
+      "impressionsPrev": 0.4861
+    },
+    "solo": 0.7358
+  },
+  "JOR": {
+    "name": "Jordan",
+    "participants": 1330932,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.3567,
+        "desktopPrev": 0.3327,
+        "tablet": 0.0608,
+        "tabletPrev": 0.0608,
+        "mobile": 0.5646,
+        "mobilePrev": 0.4006
+      },
+      "clicks": {
+        "desktop": 0.4228,
+        "desktopPrev": 0.4378,
+        "tablet": 0.1735,
+        "tabletPrev": 0.1754,
+        "mobile": 0.0721,
+        "mobilePrev": 0.0641
+      },
+      "revenue": {
+        "desktop": 0.5306,
+        "desktopPrev": 0.4859,
+        "tablet": 0.1811,
+        "tabletPrev": 0.1792,
+        "mobile": 0.1563,
+        "mobilePrev": 0.1997
+      }
+    },
+    "dimensions": {
+      "overall": 0.406,
+      "overallPrev": 0.4468,
+      "clicks": 0.0051,
+      "clicksPrev": 0.0052,
+      "impressions": 0.3721,
+      "impressionsPrev": 0.4106
+    },
+    "solo": 0.8595
+  },
+  "JPN": {
+    "name": "Japan",
+    "participants": 106585910,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.6246,
+        "desktopPrev": 0.545,
+        "tablet": 0.1154,
+        "tabletPrev": 0.1512,
+        "mobile": 0.1349,
+        "mobilePrev": 0.1446
+      },
+      "clicks": {
+        "desktop": 0.705,
+        "desktopPrev": 0.8559,
+        "tablet": 0.2053,
+        "tabletPrev": 0.2061,
+        "mobile": 0.2921,
+        "mobilePrev": 0.2117
+      },
+      "revenue": {
+        "desktop": 0.5724,
+        "desktopPrev": 0.5812,
+        "tablet": 0.0762,
+        "tabletPrev": 0.0829,
+        "mobile": 0.0216,
+        "mobilePrev": 0.019
+      }
+    },
+    "dimensions": {
+      "overall": 0.1225,
+      "overallPrev": 0.1476,
+      "clicks": 0.0029,
+      "clicksPrev": 0.0022,
+      "impressions": 0.4911,
+      "impressionsPrev": 0.5615
+    },
+    "solo": 0.6724
+  },
+  "KAZ": {
+    "name": "Kazakhstan",
+    "participants": 2280500,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0233,
+        "desktopPrev": 0.026,
+        "tablet": 0.1299,
+        "tabletPrev": 0.1212,
+        "mobile": 0.4151,
+        "mobilePrev": 0.3328
+      },
+      "clicks": {
+        "desktop": 0.5913,
+        "desktopPrev": 0.6343,
+        "tablet": 0.3131,
+        "tabletPrev": 0.2345,
+        "mobile": 0.124,
+        "mobilePrev": 0.1911
+      },
+      "revenue": {
+        "desktop": 0.4356,
+        "desktopPrev": 0.5907,
+        "tablet": 0.0115,
+        "tabletPrev": 0.0101,
+        "mobile": 0.1824,
+        "mobilePrev": 0.1784
+      }
+    },
+    "dimensions": {
+      "overall": 0.0781,
+      "overallPrev": 0.0836,
+      "clicks": 0.016,
+      "clicksPrev": 0.0141,
+      "impressions": 0.3061,
+      "impressionsPrev": 0.3719
+    },
+    "solo": 0.6081
+  },
+  "KGZ": {
+    "name": "Kyrgyzstan",
+    "participants": 2043999,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.2265,
+        "desktopPrev": 0.1757,
+        "tablet": 0.2973,
+        "tabletPrev": 0.296,
+        "mobile": 0.0991,
+        "mobilePrev": 0.1165
+      },
+      "clicks": {
+        "desktop": 0.1352,
+        "desktopPrev": 0.1183,
+        "tablet": 0.0917,
+        "tabletPrev": 0.0962,
+        "mobile": 0.7305,
+        "mobilePrev": 0.9487
+      },
+      "revenue": {
+        "desktop": 0.2959,
+        "desktopPrev": 0.2868,
+        "tablet": 0.3023,
+        "tabletPrev": 0.3186,
+        "mobile": 0.1919,
+        "mobilePrev": 0.207
+      }
+    },
+    "dimensions": {
+      "overall": 0.0184,
+      "overallPrev": 0.0207,
+      "clicks": 0.0113,
+      "clicksPrev": 0.0083,
+      "impressions": 0.134,
+      "impressionsPrev": 0.1237
+    },
+    "solo": 0.5971
+  },
+  "KHM": {
+    "name": "Cambodia",
+    "participants": 9455991,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0944,
+        "desktopPrev": 0.1165,
+        "tablet": 0.117,
+        "tabletPrev": 0.1132,
+        "mobile": 0.8839,
+        "mobilePrev": 1
+      },
+      "clicks": {
+        "desktop": 0.1069,
+        "desktopPrev": 0.1279,
+        "tablet": 0.1517,
+        "tabletPrev": 0.1566,
+        "mobile": 0.3981,
+        "mobilePrev": 0.3019
+      },
+      "revenue": {
+        "desktop": 0.1292,
+        "desktopPrev": 0.1142,
+        "tablet": 0.1846,
+        "tabletPrev": 0.2433,
+        "mobile": 0.69,
+        "mobilePrev": 0.582
+      }
+    },
+    "dimensions": {
+      "overall": 0.0351,
+      "overallPrev": 0.0451,
+      "clicks": 0.0111,
+      "clicksPrev": 0.0117,
+      "impressions": 0.3088,
+      "impressionsPrev": 0.4479
+    },
+    "solo": 0.5732
+  },
+  "KOR": {
+    "name": "Korea",
+    "participants": 9266200,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.3675,
+        "desktopPrev": 0.2546,
+        "tablet": 0.1245,
+        "tabletPrev": 0.1644,
+        "mobile": 0.5669,
+        "mobilePrev": 0.5235
+      },
+      "clicks": {
+        "desktop": 0.0835,
+        "desktopPrev": 0.0851,
+        "tablet": 0.0203,
+        "tabletPrev": 0.0232,
+        "mobile": 0.2339,
+        "mobilePrev": 0.1906
+      },
+      "revenue": {
+        "desktop": 0.2631,
+        "desktopPrev": 0.2642,
+        "tablet": 0.2729,
+        "tabletPrev": 0.2923,
+        "mobile": 0.2629,
+        "mobilePrev": 0.2781
+      }
+    },
+    "dimensions": {
+      "overall": 0.4331,
+      "overallPrev": 0.3401,
+      "clicks": 0.0199,
+      "clicksPrev": 0.0186,
+      "impressions": 0.5437,
+      "impressionsPrev": 0.5304
+    },
+    "solo": 0.8684
+  },
+  "KWT": {
+    "name": "Kuwait",
+    "participants": 2502913,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.8553,
+        "desktopPrev": 0.7686,
+        "tablet": 0.0761,
+        "tabletPrev": 0.0552,
+        "mobile": 0.3617,
+        "mobilePrev": 0.3579
+      },
+      "clicks": {
+        "desktop": 0.4131,
+        "desktopPrev": 0.3426,
+        "tablet": 0.033,
+        "tabletPrev": 0.0299,
+        "mobile": 0.6459,
+        "mobilePrev": 0.661
+      },
+      "revenue": {
+        "desktop": 0.7441,
+        "desktopPrev": 0.6233,
+        "tablet": 0.0939,
+        "tabletPrev": 0.0678,
+        "mobile": 0.2935,
+        "mobilePrev": 0.2791
+      }
+    },
+    "dimensions": {
+      "overall": 0.2593,
+      "overallPrev": 0.2363,
+      "clicks": 0.0095,
+      "clicksPrev": 0.0092,
+      "impressions": 0.0796,
+      "impressionsPrev": 0.0761
+    },
+    "solo": 0.6649
+  },
+  "LAO": {
+    "name": "Lao PDR",
+    "participants": 4955314,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.5386,
+        "desktopPrev": 0.4447,
+        "tablet": 0.0451,
+        "tabletPrev": 0.0638,
+        "mobile": 0.0496,
+        "mobilePrev": 0.0424
+      },
+      "clicks": {
+        "desktop": 0.6007,
+        "desktopPrev": 0.4497,
+        "tablet": 0.1923,
+        "tabletPrev": 0.1709,
+        "mobile": 0.0866,
+        "mobilePrev": 0.0754
+      },
+      "revenue": {
+        "desktop": 0.5061,
+        "desktopPrev": 0.4499,
+        "tablet": 0.2338,
+        "tabletPrev": 0.1972,
+        "mobile": 0.0619,
+        "mobilePrev": 0.0718
+      }
+    },
+    "dimensions": {
+      "overall": 0.0145,
+      "overallPrev": 0.0152,
+      "clicks": 0.0243,
+      "clicksPrev": 0.0304,
+      "impressions": 0.3191,
+      "impressionsPrev": 0.2883
+    },
+    "solo": 0.7962
+  },
+  "LBN": {
+    "name": "Lebanon",
+    "participants": 3033345,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.4696,
+        "desktopPrev": 0.4106,
+        "tablet": 0.2185,
+        "tabletPrev": 0.1977,
+        "mobile": 0.0266,
+        "mobilePrev": 0.0268
+      },
+      "clicks": {
+        "desktop": 0.0998,
+        "desktopPrev": 0.0875,
+        "tablet": 0.2302,
+        "tabletPrev": 0.2019,
+        "mobile": 0.0248,
+        "mobilePrev": 0.0274
+      },
+      "revenue": {
+        "desktop": 0.4475,
+        "desktopPrev": 0.7219,
+        "tablet": 0.0828,
+        "tabletPrev": 0.1057,
+        "mobile": 0.0477,
+        "mobilePrev": 0.0538
+      }
+    },
+    "dimensions": {
+      "overall": 0.3477,
+      "overallPrev": 0.3444,
+      "clicks": 0.0055,
+      "clicksPrev": 0.0081,
+      "impressions": 0.5686,
+      "impressionsPrev": 0.4823
+    },
+    "solo": 0.9135
+  },
+  "LKA": {
+    "name": "Sri Lanka",
+    "participants": 8033332,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.1609,
+        "desktopPrev": 0.1636,
+        "tablet": 0.0598,
+        "tabletPrev": 0.054,
+        "mobile": 0.1303,
+        "mobilePrev": 0.1795
+      },
+      "clicks": {
+        "desktop": 0.6552,
+        "desktopPrev": 0.5638,
+        "tablet": 0.0068,
+        "tabletPrev": 0.0072,
+        "mobile": 0.0795,
+        "mobilePrev": 0.082
+      },
+      "revenue": {
+        "desktop": 0.2595,
+        "desktopPrev": 0.25,
+        "tablet": 0.3903,
+        "tabletPrev": 0.5311,
+        "mobile": 0.1769,
+        "mobilePrev": 0.1997
+      }
+    },
+    "dimensions": {
+      "overall": 0.3188,
+      "overallPrev": 0.2751,
+      "clicks": 0.0172,
+      "clicksPrev": 0.0174,
+      "impressions": 0.3389,
+      "impressionsPrev": 0.3779
+    },
+    "solo": 0.6546
+  },
+  "MMR": {
+    "name": "Myanmar",
+    "participants": 9335846,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.1437,
+        "desktopPrev": 0.1301,
+        "tablet": 0.1787,
+        "tabletPrev": 0.191,
+        "mobile": 0.3261,
+        "mobilePrev": 0.2945
+      },
+      "clicks": {
+        "desktop": 0.0841,
+        "desktopPrev": 0.1109,
+        "tablet": 0.1637,
+        "tabletPrev": 0.1739,
+        "mobile": 0.5681,
+        "mobilePrev": 0.7099
+      },
+      "revenue": {
+        "desktop": 0.2177,
+        "desktopPrev": 0.2138,
+        "tablet": 0.261,
+        "tabletPrev": 0.3039,
+        "mobile": 0.3104,
+        "mobilePrev": 0.2402
+      }
+    },
+    "dimensions": {
+      "overall": 0.169,
+      "overallPrev": 0.1974,
+      "clicks": 0.0046,
+      "clicksPrev": 0.0036,
+      "impressions": 0.096,
+      "impressionsPrev": 0.0725
+    },
+    "solo": 0.7947
+  },
+  "MNG": {
+    "name": "Mongolia",
+    "participants": 2479010,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.5965,
+        "desktopPrev": 0.7644,
+        "tablet": 0.3313,
+        "tabletPrev": 0.2604,
+        "mobile": 0.3562,
+        "mobilePrev": 0.3986
+      },
+      "clicks": {
+        "desktop": 0.2071,
+        "desktopPrev": 0.2679,
+        "tablet": 0.2439,
+        "tabletPrev": 0.2697,
+        "mobile": 0.4766,
+        "mobilePrev": 0.3882
+      },
+      "revenue": {
+        "desktop": 0.4297,
+        "desktopPrev": 0.5052,
+        "tablet": 0.2173,
+        "tabletPrev": 0.2572,
+        "mobile": 0.3663,
+        "mobilePrev": 0.3626
+      }
+    },
+    "dimensions": {
+      "overall": 0.2484,
+      "overallPrev": 0.2431,
+      "clicks": 0.0194,
+      "clicksPrev": 0.0179,
+      "impressions": 0.335,
+      "impressionsPrev": 0.2721
+    },
+    "solo": 0.961
+  },
+  "MYS": {
+    "name": "Malaysia",
+    "participants": 9712682,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0547,
+        "desktopPrev": 0.0404,
+        "tablet": 0.1473,
+        "tabletPrev": 0.1576,
+        "mobile": 0.525,
+        "mobilePrev": 0.6351
+      },
+      "clicks": {
+        "desktop": 0.0545,
+        "desktopPrev": 0.0665,
+        "tablet": 0.0794,
+        "tabletPrev": 0.0848,
+        "mobile": 0.0746,
+        "mobilePrev": 0.0781
+      },
+      "revenue": {
+        "desktop": 0.0254,
+        "desktopPrev": 0.0249,
+        "tablet": 0.3881,
+        "tabletPrev": 0.3556,
+        "mobile": 0.4697,
+        "mobilePrev": 0.5125
+      }
+    },
+    "dimensions": {
+      "overall": 0.1444,
+      "overallPrev": 0.112,
+      "clicks": 0.0158,
+      "clicksPrev": 0.0155,
+      "impressions": 0.0393,
+      "impressionsPrev": 0.0379
+    },
+    "solo": 0.8565
+  },
+  "NPL": {
+    "name": "Nepal",
+    "participants": 9668707,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.3296,
+        "desktopPrev": 0.2621,
+        "tablet": 0.1227,
+        "tabletPrev": 0.1132,
+        "mobile": 0.3861,
+        "mobilePrev": 0.4053
+      },
+      "clicks": {
+        "desktop": 0.3845,
+        "desktopPrev": 0.3487,
+        "tablet": 0.0957,
+        "tabletPrev": 0.1181,
+        "mobile": 0.0399,
+        "mobilePrev": 0.0481
+      },
+      "revenue": {
+        "desktop": 0.2529,
+        "desktopPrev": 0.2356,
+        "tablet": 0.1659,
+        "tabletPrev": 0.158,
+        "mobile": 0.1126,
+        "mobilePrev": 0.1576
+      }
+    },
+    "dimensions": {
+      "overall": 0.3773,
+      "overallPrev": 0.3882,
+      "clicks": 0.0023,
+      "clicksPrev": 0.0029,
+      "impressions": 0.4034,
+      "impressionsPrev": 0.4386
+    },
+    "solo": 0.5032
+  },
+  "OMN": {
+    "name": "Oman",
+    "participants": 823928,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.1468,
+        "desktopPrev": 0.1384,
+        "tablet": 0.2326,
+        "tabletPrev": 0.2503,
+        "mobile": 0.099,
+        "mobilePrev": 0.1105
+      },
+      "clicks": {
+        "desktop": 0.3963,
+        "desktopPrev": 0.4027,
+        "tablet": 0.204,
+        "tabletPrev": 0.2304,
+        "mobile": 0.085,
+        "mobilePrev": 0.0689
+      },
+      "revenue": {
+        "desktop": 0.0599,
+        "desktopPrev": 0.062,
+        "tablet": 0.4109,
+        "tabletPrev": 0.3445,
+        "mobile": 0.0822,
+        "mobilePrev": 0.0661
+      }
+    },
+    "dimensions": {
+      "overall": 0.2955,
+      "overallPrev": 0.2275,
+      "clicks": 0.0086,
+      "clicksPrev": 0.0087,
+      "impressions": 0.4617,
+      "impressionsPrev": 0.5003
+    },
+    "solo": 0.5049
+  },
+  "PAK": {
+    "name": "Pakistan",
+    "participants": 163240859,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0215,
+        "desktopPrev": 0.0153,
+        "tablet": 0.1048,
+        "tabletPrev": 0.1424,
+        "mobile": 0.321,
+        "mobilePrev": 0.3649
+      },
+      "clicks": {
+        "desktop": 0.0139,
+        "desktopPrev": 0.0172,
+        "tablet": 0.0566,
+        "tabletPrev": 0.0496,
+        "mobile": 0.2624,
+        "mobilePrev": 0.2618
+      },
+      "revenue": {
+        "desktop": 0.0185,
+        "desktopPrev": 0.0205,
+        "tablet": 0.337,
+        "tabletPrev": 0.3074,
+        "mobile": 0.7716,
+        "mobilePrev": 0.5334
+      }
+    },
+    "dimensions": {
+      "overall": 0.0614,
+      "overallPrev": 0.061,
+      "clicks": 0.0026,
+      "clicksPrev": 0.0029,
+      "impressions": 0.1689,
+      "impressionsPrev": 0.1587
+    },
+    "solo": 0.6019
+  },
+  "PHL": {
+    "name": "Philippines",
+    "participants": 20621795,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.2531,
+        "desktopPrev": 0.2534,
+        "tablet": 0.0102,
+        "tabletPrev": 0.0107,
+        "mobile": 0.2762,
+        "mobilePrev": 0.4272
+      },
+      "clicks": {
+        "desktop": 0.0876,
+        "desktopPrev": 0.0983,
+        "tablet": 0.0443,
+        "tabletPrev": 0.0373,
+        "mobile": 0.218,
+        "mobilePrev": 0.208
+      },
+      "revenue": {
+        "desktop": 0.1694,
+        "desktopPrev": 0.1705,
+        "tablet": 0.0201,
+        "tabletPrev": 0.0268,
+        "mobile": 0.4177,
+        "mobilePrev": 0.4636
+      }
+    },
+    "dimensions": {
+      "overall": 0.245,
+      "overallPrev": 0.2449,
+      "clicks": 0.0064,
+      "clicksPrev": 0.0068,
+      "impressions": 0.6306,
+      "impressionsPrev": 0.6001
+    },
+    "solo": 0.5975
+  },
+  "PRK": {
+    "name": "Dem. Rep. Korea",
+    "participants": 7306130,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.4868,
+        "desktopPrev": 0.4024,
+        "tablet": 0.1099,
+        "tabletPrev": 0.1203,
+        "mobile": 0.6596,
+        "mobilePrev": 0.5991
+      },
+      "clicks": {
+        "desktop": 0.0765,
+        "desktopPrev": 0.0557,
+        "tablet": 0.1449,
+        "tabletPrev": 0.1584,
+        "mobile": 0.3799,
+        "mobilePrev": 0.3453
+      },
+      "revenue": {
+        "desktop": 0.4049,
+        "desktopPrev": 0.4458,
+        "tablet": 0.0916,
+        "tabletPrev": 0.0826,
+        "mobile": 0.4449,
+        "mobilePrev": 0.4247
+      }
+    },
+    "dimensions": {
+      "overall": 0.0206,
+      "overallPrev": 0.0219,
+      "clicks": 0.0213,
+      "clicksPrev": 0.0231,
+      "impressions": 0.4089,
+      "impressionsPrev": 0.2856
+    },
+    "solo": 0.8454
+  },
+  "PSX": {
+    "name": "Palestine",
+    "participants": 733177,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.3465,
+        "desktopPrev": 0.3413,
+        "tablet": 0.093,
+        "tabletPrev": 0.096,
+        "mobile": 0.5539,
+        "mobilePrev": 0.5898
+      },
+      "clicks": {
+        "desktop": 0.3967,
+        "desktopPrev": 0.4157,
+        "tablet": 0.1134,
+        "tabletPrev": 0.1362,
+        "mobile": 0.3297,
+        "mobilePrev": 0.3372
+      },
+      "revenue": {
+        "desktop": 0.2397,
+        "desktopPrev": 0.2331,
+        "tablet": 0.151,
+        "tabletPrev": 0.1477,
+        "mobile": 0.2691,
+        "mobilePrev": 0.2742
+      }
+    },
+    "dimensions": {
+      "overall": 0.2892,
+      "overallPrev": 0.3017,
+      "clicks": 0.0056,
+      "clicksPrev": 0.0065,
+      "impressions": 0.0649,
+      "impressionsPrev": 0.0814
+    },
+    "solo": 0.9969
+  },
+  "QAT": {
+    "name": "Qatar",
+    "participants": 239076,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.4415,
+        "desktopPrev": 0.3214,
+        "tablet": 0.106,
+        "tabletPrev": 0.1229,
+        "mobile": 0.6732,
+        "mobilePrev": 0.5572
+      },
+      "clicks": {
+        "desktop": 0.0544,
+        "desktopPrev": 0.0524,
+        "tablet": 0.0307,
+        "tabletPrev": 0.0307,
+        "mobile": 0.4806,
+        "mobilePrev": 0.6393
+      },
+      "revenue": {
+        "desktop": 0.3444,
+        "desktopPrev": 0.3007,
+        "tablet": 0.0022,
+        "tabletPrev": 0.0021,
+        "mobile": 0.3857,
+        "mobilePrev": 0.4859
+      }
+    },
+    "dimensions": {
+      "overall": 0.4895,
+      "overallPrev": 0.585,
+      "clicks": 0.0094,
+      "clicksPrev": 0.0071,
+      "impressions": 0.0157,
+      "impressionsPrev": 0.0113
+    },
+    "solo": 0.8591
+  },
+  "RUS": {
+    "name": "Russia",
+    "participants": 114238009,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.275,
+        "desktopPrev": 0.2825,
+        "tablet": 0.0213,
+        "tabletPrev": 0.0162,
+        "mobile": 0.2375,
+        "mobilePrev": 0.2643
+      },
+      "clicks": {
+        "desktop": 0.0669,
+        "desktopPrev": 0.0827,
+        "tablet": 0.0327,
+        "tabletPrev": 0.0361,
+        "mobile": 1,
+        "mobilePrev": 1
+      },
+      "revenue": {
+        "desktop": 0.0897,
+        "desktopPrev": 0.0988,
+        "tablet": 0.0355,
+        "tabletPrev": 0.0297,
+        "mobile": 0.8954,
+        "mobilePrev": 0.9873
+      }
+    },
+    "dimensions": {
+      "overall": 0.2148,
+      "overallPrev": 0.2081,
+      "clicks": 0.0046,
+      "clicksPrev": 0.0052,
+      "impressions": 0.2144,
+      "impressionsPrev": 0.147
+    },
+    "solo": 0.7824
+  },
+  "SAU": {
+    "name": "Saudi Arabia",
+    "participants": 10720903,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.6307,
+        "desktopPrev": 0.4985,
+        "tablet": 0.0017,
+        "tabletPrev": 0.0016,
+        "mobile": 0.1728,
+        "mobilePrev": 0.2137
+      },
+      "clicks": {
+        "desktop": 0.1261,
+        "desktopPrev": 0.1456,
+        "tablet": 0.2002,
+        "tabletPrev": 0.2529,
+        "mobile": 0.0624,
+        "mobilePrev": 0.0662
+      },
+      "revenue": {
+        "desktop": 0.2626,
+        "desktopPrev": 0.2859,
+        "tablet": 0.1964,
+        "tabletPrev": 0.2509,
+        "mobile": 0.0389,
+        "mobilePrev": 0.0399
+      }
+    },
+    "dimensions": {
+      "overall": 0.0501,
+      "overallPrev": 0.0474,
+      "clicks": 0.0088,
+      "clicksPrev": 0.0084,
+      "impressions": 0.4265,
+      "impressionsPrev": 0.4251
+    },
+    "solo": 0.9998
+  },
+  "SYR": {
+    "name": "Syria",
+    "participants": 20125012,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0034,
+        "desktopPrev": 0.0033,
+        "tablet": 0.0266,
+        "tabletPrev": 0.0322,
+        "mobile": 0.0034,
+        "mobilePrev": 0.003
+      },
+      "clicks": {
+        "desktop": 1,
+        "desktopPrev": 1,
+        "tablet": 0.0769,
+        "tabletPrev": 0.0697,
+        "mobile": 0.0083,
+        "mobilePrev": 0.0067
+      },
+      "revenue": {
+        "desktop": 1,
+        "desktopPrev": 1,
+        "tablet": 0.0411,
+        "tabletPrev": 0.0491,
+        "mobile": 0.0103,
+        "mobilePrev": 0.0103
+      }
+    },
+    "dimensions": {
+      "overall": 0.5129,
+      "overallPrev": 0.7138,
+      "clicks": 0.0154,
+      "clicksPrev": 0.0159,
+      "impressions": 0.6892,
+      "impressionsPrev": 0.6755
+    },
+    "solo": 0.937
+  },
+  "THA": {
+    "name": "Thailand",
+    "participants": 23087791,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0077,
+        "desktopPrev": 0.0079,
+        "tablet": 0.2705,
+        "tabletPrev": 0.2779,
+        "mobile": 0.0578,
+        "mobilePrev": 0.0718
+      },
+      "clicks": {
+        "desktop": 0.2528,
+        "desktopPrev": 0.2487,
+        "tablet": 0.0282,
+        "tabletPrev": 0.0265,
+        "mobile": 0.0992,
+        "mobilePrev": 0.1087
+      },
+      "revenue": {
+        "desktop": 0.4974,
+        "desktopPrev": 0.5928,
+        "tablet": 0.3562,
+        "tabletPrev": 0.2933,
+        "mobile": 0.0862,
+        "mobilePrev": 0.0872
+      }
+    },
+    "dimensions": {
+      "overall": 0.4771,
+      "overallPrev": 0.4407,
+      "clicks": 0.0067,
+      "clicksPrev": 0.0061,
+      "impressions": 0.434,
+      "impressionsPrev": 0.4314
+    },
+    "solo": 0.8347
+  },
+  "TJK": {
+    "name": "Tajikistan",
+    "participants": 5839261,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0625,
+        "desktopPrev": 0.0607,
+        "tablet": 0.2142,
+        "tabletPrev": 0.1587,
+        "mobile": 0.5226,
+        "mobilePrev": 0.6632
+      },
+      "clicks": {
+        "desktop": 0.1702,
+        "desktopPrev": 0.1708,
+        "tablet": 0.1215,
+        "tabletPrev": 0.0976,
+        "mobile": 0.4998,
+        "mobilePrev": 0.5265
+      },
+      "revenue": {
+        "desktop": 0.0109,
+        "desktopPrev": 0.0086,
+        "tablet": 0.1931,
+        "tabletPrev": 0.1602,
+        "mobile": 0.5946,
+        "mobilePrev": 0.4745
+      }
+    },
+    "dimensions": {
+      "overall": 0.3008,
+      "overallPrev": 0.3228,
+      "clicks": 0.0211,
+      "clicksPrev": 0.0215,
+      "impressions": 0.1485,
+      "impressionsPrev": 0.1483
+    },
+    "solo": 0.7776
+  },
+  "TKM": {
+    "name": "Turkmenistan",
+    "participants": 37239,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0989,
+        "desktopPrev": 0.0989,
+        "tablet": 0.5072,
+        "tabletPrev": 0.3515,
+        "mobile": 0.0313,
+        "mobilePrev": 0.0283
+      },
+      "clicks": {
+        "desktop": 0.2478,
+        "desktopPrev": 0.2582,
+        "tablet": 0.2865,
+        "tabletPrev": 0.2879,
+        "mobile": 0.0371,
+        "mobilePrev": 0.0298
+      },
+      "revenue": {
+        "desktop": 0.2142,
+        "desktopPrev": 0.2011,
+        "tablet": 0.1664,
+        "tabletPrev": 0.1549,
+        "mobile": 0.0228,
+        "mobilePrev": 0.0289
+      }
+    },
+    "dimensions": {
+      "overall": 0.2485,
+      "overallPrev": 0.2769,
+      "clicks": 0.0007,
+      "clicksPrev": 0.0008,
+      "impressions": 0.2997,
+      "impressionsPrev": 0.3027
+    },
+    "solo": 0.6713
+  },
+  "TUR": {
+    "name": "Turkey",
+    "participants": 16235817,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.4883,
+        "desktopPrev": 0.5228,
+        "tablet": 0.0645,
+        "tabletPrev": 0.0721,
+        "mobile": 0.2342,
+        "mobilePrev": 0.214
+      },
+      "clicks": {
+        "desktop": 0.3683,
+        "desktopPrev": 0.4882,
+        "tablet": 0.2749,
+        "tabletPrev": 0.269,
+        "mobile": 0.3896,
+        "mobilePrev": 0.4173
+      },
+      "revenue": {
+        "desktop": 0.1033,
+        "desktopPrev": 0.1355,
+        "tablet": 0.241,
+        "tabletPrev": 0.2828,
+        "mobile": 0.4708,
+        "mobilePrev": 0.7414
+      }
+    },
+    "dimensions": {
+      "overall": 0.4571,
+      "overallPrev": 0.4202,
+      "clicks": 0.0004,
+      "clicksPrev": 0.0005,
+      "impressions": 0.6316,
+      "impressionsPrev": 0.8215
+    },
+    "solo": 0.6812
+  },
+  "TWN": {
+    "name": "Taiwan",
+    "participants": 4094564,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.8829,
+        "desktopPrev": 1,
+        "tablet": 0.0207,
+        "tabletPrev": 0.0334,
+        "mobile": 0.0595,
+        "mobilePrev": 0.0518
+      },
+      "clicks": {
+        "desktop": 0.8635,
+        "desktopPrev": 0.8489,
+        "tablet": 0.0252,
+        "tabletPrev": 0.0289,
+        "mobile": 0.242,
+        "mobilePrev": 0.2178
+      },
+      "revenue": {
+        "desktop": 0.3069,
+        "desktopPrev": 0.2915,
+        "tablet": 0.0153,
+        "tabletPrev": 0.0198,
+        "mobile": 0.6222,
+        "mobilePrev": 0.5047
+      }
+    },
+    "dimensions": {
+      "overall": 0.6065,
+      "overallPrev": 0.3978,
+      "clicks": 0.0183,
+      "clicksPrev": 0.016,
+      "impressions": 0.2402,
+      "impressionsPrev": 0.2571
+    },
+    "solo": 0.7708
+  },
+  "UZB": {
+    "name": "Uzbekistan",
+    "participants": 15439410,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.5391,
+        "desktopPrev": 0.5346,
+        "tablet": 0.3382,
+        "tabletPrev": 0.3571,
+        "mobile": 0.3437,
+        "mobilePrev": 0.246
+      },
+      "clicks": {
+        "desktop": 0.1736,
+        "desktopPrev": 0.2646,
+        "tablet": 0.3095,
+        "tabletPrev": 0.3032,
+        "mobile": 0.2396,
+        "mobilePrev": 0.216
+      },
+      "revenue": {
+        "desktop": 0.3249,
+        "desktopPrev": 0.2909,
+        "tablet": 0.195,
+        "tabletPrev": 0.2291,
+        "mobile": 0.1348,
+        "mobilePrev": 0.1245
+      }
+    },
+    "dimensions": {
+      "overall": 0.0674,
+      "overallPrev": 0.0672,
+      "clicks": 0.0001,
+      "clicksPrev": 0.0001,
+      "impressions": 0.1286,
+      "impressionsPrev": 0.1308
+    },
+    "solo": 0.9348
+  },
+  "VNM": {
+    "name": "Vietnam",
+    "participants": 3853564,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.3091,
+        "desktopPrev": 0.3883,
+        "tablet": 0.4049,
+        "tabletPrev": 0.3885,
+        "mobile": 0.0258,
+        "mobilePrev": 0.0262
+      },
+      "clicks": {
+        "desktop": 0.4523,
+        "desktopPrev": 0.3724,
+        "tablet": 0.317,
+        "tabletPrev": 0.3879,
+        "mobile": 0.1348,
+        "mobilePrev": 0.1665
+      },
+      "revenue": {
+        "desktop": 0.0007,
+        "desktopPrev": 0.0007,
+        "tablet": 0.3246,
+        "tabletPrev": 0.4497,
+        "mobile": 0.0204,
+        "mobilePrev": 0.0162
+      }
+    },
+    "dimensions": {
+      "overall": 0.3369,
+      "overallPrev": 0.3448,
+      "clicks": 0.0207,
+      "clicksPrev": 0.0225,
+      "impressions": 0.3807,
+      "impressionsPrev": 0.4371
+    },
+    "solo": 0.8071
+  },
+  "YEM": {
+    "name": "Yemen",
+    "participants": 6509870,
+    "metrics": {
+      "conversions": {
+        "desktop": 1,
+        "desktopPrev": 1,
+        "tablet": 0.0116,
+        "tabletPrev": 0.0114,
+        "mobile": 0.1724,
+        "mobilePrev": 0.2325
+      },
+      "clicks": {
+        "desktop": 1,
+        "desktopPrev": 1,
+        "tablet": 0.009,
+        "tabletPrev": 0.0088,
+        "mobile": 0.2964,
+        "mobilePrev": 0.333
+      },
+      "revenue": {
+        "desktop": 0.0525,
+        "desktopPrev": 0.0613,
+        "tablet": 0.0174,
+        "tabletPrev": 0.0172,
+        "mobile": 0.1043,
+        "mobilePrev": 0.086
+      }
+    },
+    "dimensions": {
+      "overall": 0.0264,
+      "overallPrev": 0.0303,
+      "clicks": 0.015,
+      "clicksPrev": 0.0151,
+      "impressions": 0.2453,
+      "impressionsPrev": 0.3216
+    },
+    "solo": 0.8538
+  },
+  "AF": {
+    "name": "Africa",
+    "participants": 565650929,
+    "solo": 0.9807,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.2603,
+        "desktopPrev": 0.2734,
+        "tablet": 0.1256,
+        "tabletPrev": 0.1223,
+        "mobile": 0.3368,
+        "mobilePrev": 0.3299
+      },
+      "clicks": {
+        "desktop": 0.2226,
+        "desktopPrev": 0.2164,
+        "tablet": 0.1533,
+        "tabletPrev": 0.1628,
+        "mobile": 0.2938,
+        "mobilePrev": 0.3035
+      },
+      "revenue": {
+        "desktop": 0.1975,
+        "desktopPrev": 0.203,
+        "tablet": 0.0857,
+        "tabletPrev": 0.0919,
+        "mobile": 0.217,
+        "mobilePrev": 0.2324
+      }
+    },
+    "dimensions": {
+      "overall": 0.3364,
+      "overallPrev": 0,
+      "clicks": 0.0872,
+      "clicksPrev": 0,
+      "impressions": 0.2199,
+      "impressionsPrev": 0
+    }
+  },
+  "AGO": {
+    "name": "Angola",
+    "participants": 1320421,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.3589,
+        "desktopPrev": 0.4361,
+        "tablet": 0.1724,
+        "tabletPrev": 0.2159,
+        "mobile": 0.4207,
+        "mobilePrev": 0.4045
+      },
+      "clicks": {
+        "desktop": 0.1376,
+        "desktopPrev": 0.1187,
+        "tablet": 0.0007,
+        "tabletPrev": 0.0008,
+        "mobile": 0.4956,
+        "mobilePrev": 0.5852
+      },
+      "revenue": {
+        "desktop": 0.1355,
+        "desktopPrev": 0.1325,
+        "tablet": 0.1424,
+        "tabletPrev": 0.1119,
+        "mobile": 0.157,
+        "mobilePrev": 0.1854
+      }
+    },
+    "dimensions": {
+      "overall": 0.5691,
+      "overallPrev": 0.629,
+      "clicks": 0.1202,
+      "clicksPrev": 0.1438,
+      "impressions": 0.052,
+      "impressionsPrev": 0.055
+    },
+    "solo": 0.9933
+  },
+  "BDI": {
+    "name": "Burundi",
+    "participants": 8466455,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0915,
+        "desktopPrev": 0.1076,
+        "tablet": 0.1545,
+        "tabletPrev": 0.1394,
+        "mobile": 0.1328,
+        "mobilePrev": 0.1297
+      },
+      "clicks": {
+        "desktop": 0.5442,
+        "desktopPrev": 0.5349,
+        "tablet": 0.0069,
+        "tabletPrev": 0.0075,
+        "mobile": 0.2954,
+        "mobilePrev": 0.2273
+      },
+      "revenue": {
+        "desktop": 0.5434,
+        "desktopPrev": 0.3593,
+        "tablet": 0.0966,
+        "tabletPrev": 0.0859,
+        "mobile": 0.1273,
+        "mobilePrev": 0.1185
+      }
+    },
+    "dimensions": {
+      "overall": 0.589,
+      "overallPrev": 0.7462,
+      "clicks": 0.1444,
+      "clicksPrev": 0.143,
+      "impressions": 0.0449,
+      "impressionsPrev": 0.0441
+    },
+    "solo": 0.9925
+  },
+  "BEN": {
+    "name": "Benin",
+    "participants": 8519229,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.4585,
+        "desktopPrev": 0.4403,
+        "tablet": 0.5252,
+        "tabletPrev": 0.4159,
+        "mobile": 0.153,
+        "mobilePrev": 0.1597
+      },
+      "clicks": {
+        "desktop": 0.1951,
+        "desktopPrev": 0.1875,
+        "tablet": 0.3846,
+        "tabletPrev": 0.4453,
+        "mobile": 0.0312,
+        "mobilePrev": 0.0262
+      },
+      "revenue": {
+        "desktop": 0.0308,
+        "desktopPrev": 0.0415,
+        "tablet": 0.0297,
+        "tabletPrev": 0.0318,
+        "mobile": 0.116,
+        "mobilePrev": 0.1077
+      }
+    },
+    "dimensions": {
+      "overall": 0.1914,
+      "overallPrev": 0.203,
+      "clicks": 0.1283,
+      "clicksPrev": 0.09,
+      "impressions": 0.2481,
+      "impressionsPrev": 0.1967
+    },
+    "solo": 0.9638
+  },
+  "BFA": {
+    "name": "Burkina Faso",
+    "participants": 1717412,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.7092,
+        "desktopPrev": 0.6946,
+        "tablet": 0.1704,
+        "tabletPrev": 0.1811,
+        "mobile": 0.0648,
+        "mobilePrev": 0.0684
+      },
+      "clicks": {
+        "desktop": 0.5474,
+        "desktopPrev": 0.7571,
+        "tablet": 0.2063,
+        "tabletPrev": 0.1679,
+        "mobile": 0.2702,
+        "mobilePrev": 0.3107
+      },
+      "revenue": {
+        "desktop": 0.7903,
+        "desktopPrev": 0.7032,
+        "tablet": 0.019,
+        "tabletPrev": 0.0192,
+        "mobile": 0.0661,
+        "mobilePrev": 0.0621
+      }
+    },
+    "dimensions": {
+      "overall": 0.1372,
+      "overallPrev": 0.144,
+      "clicks": 0.0783,
+      "clicksPrev": 0.0804,
+      "impressions": 0.0162,
+      "impressionsPrev": 0.0182
+    },
+    "solo": 0.9713
+  },
+  "BWA": {
+    "name": "Botswana",
+    "participants": 568167,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.7208,
+        "desktopPrev": 0.69,
+        "tablet": 0.0144,
+        "tabletPrev": 0.0148,
+        "mobile": 0.0233,
+        "mobilePrev": 0.0148
+      },
+      "clicks": {
+        "desktop": 1,
+        "desktopPrev": 1,
+        "tablet": 0.0423,
+        "tabletPrev": 0.0538,
+        "mobile": 0.0674,
+        "mobilePrev": 0.0682
+      },
+      "revenue": {
+        "desktop": 1,
+        "desktopPrev": 0.9648,
+        "tablet": 0.0193,
+        "tabletPrev": 0.0202,
+        "mobile": 0.0541,
+        "mobilePrev": 0.0534
+      }
+    },
+    "dimensions": {
+      "overall": 0.2245,
+      "overallPrev": 0.2378,
+      "clicks": 0.0169,
+      "clicksPrev": 0.0193,
+      "impressions": 0.0309,
+      "impressionsPrev": 0.0249
+    },
+    "solo": 0.9844
+  },
+  "CAF": {
+    "name": "Central African Rep.",
+    "participants": 1443142,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.348,
+        "desktopPrev": 0.3356,
+        "tablet": 0.0177,
+        "tabletPrev": 0.0158,
+        "mobile": 0.0486,
+        "mobilePrev": 0.0501
+      },
+      "clicks": {
+        "desktop": 0.6473,
+        "desktopPrev": 0.5435,
+        "tablet": 0.0217,
+        "tabletPrev": 0.0194,
+        "mobile": 0.4517,
+        "mobilePrev": 0.4206
+      },
+      "revenue": {
+        "desktop": 0.1964,
+        "desktopPrev": 0.2034,
+        "tablet": 0.0691,
+        "tabletPrev": 0.0919,
+        "mobile": 0.4069,
+        "mobilePrev": 0.423
+      }
+    },
+    "dimensions": {
+      "overall": 0.3067,
+      "overallPrev": 0.3566,
+      "clicks": 0.0788,
+      "clicksPrev": 0.083,
+      "impressions": 0.2434,
+      "impressionsPrev": 0.2565
+    },
+    "solo": 0.9683
+  },
+  "CIV": {
+    "name": "Cte d'Ivoire",
+    "participants": 19866404,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.3953,
+        "desktopPrev": 0.3693,
+        "tablet": 0.0083,
+        "tabletPrev": 0.0075,
+        "mobile": 0.0739,
+        "mobilePrev": 0.0768
+      },
+      "clicks": {
+        "desktop": 0.1138,
+        "desktopPrev": 0.1561,
+        "tablet": 0.4295,
+        "tabletPrev": 0.4947,
+        "mobile": 0.0683,
+        "mobilePrev": 0.0626
+      },
+      "revenue": {
+        "desktop": 0.1888,
+        "desktopPrev": 0.196,
+        "tablet": 0.1024,
+        "tabletPrev": 0.146,
+        "mobile": 0.0858,
+        "mobilePrev": 0.0771
+      }
+    },
+    "dimensions": {
+      "overall": 0.505,
+      "overallPrev": 0.4003,
+      "clicks": 0.1729,
+      "clicksPrev": 0.1463,
+      "impressions": 0.1093,
+      "impressionsPrev": 0.1007
+    },
+    "solo": 0.977
+  },
+  "CMR": {
+    "name": "Cameroon",
+    "participants": 17281560,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.2599,
+        "desktopPrev": 0.248,
+        "tablet": 0.1991,
+        "tabletPrev": 0.1357,
+        "mobile": 0.4105,
+        "mobilePrev": 0.4351
+      },
+      "clicks": {
+        "desktop": 0.5078,
+        "desktopPrev": 0.4297,
+        "tablet": 0.122,
+        "tabletPrev": 0.13,
+        "mobile": 0.1907,
+        "mobilePrev": 0.1422
+      },
+      "revenue": {
+        "desktop": 0.14,
+        "desktopPrev": 0.1426,
+        "tablet": 0.0807,
+        "tabletPrev": 0.1154,
+        "mobile": 0.3515,
+        "mobilePrev": 0.3521
+      }
+    },
+    "dimensions": {
+      "overall": 0.1974,
+      "overallPrev": 0.1962,
+      "clicks": 0.1637,
+      "clicksPrev": 0.1774,
+      "impressions": 0.342,
+      "impressionsPrev": 0.4026
+    },
+    "solo": 0.9741
+  },
+  "COD": {
+    "name": "Dem. Rep. Congo",
+    "participants": 12892286,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.3762,
+        "desktopPrev": 0.4342,
+        "tablet": 0.0768,
+        "tabletPrev": 0.097,
+        "mobile": 0.1805,
+        "mobilePrev": 0.2246
+      },
+      "clicks": {
+        "desktop": 0.1399,
+        "desktopPrev": 0.1214,
+        "tablet": 0.0201,
+        "tabletPrev": 0.0306,
+        "mobile": 0.2319,
+        "mobilePrev": 0.2481
+      },
+      "revenue": {
+        "desktop": 0.779,
+        "desktopPrev": 0.799,
+        "tablet": 0.0527,
+        "tabletPrev": 0.0576,
+        "mobile": 0.0631,
+        "mobilePrev": 0.0946
+      }
+    },
+    "dimensions": {
+      "overall": 0.6431,
+      "overallPrev": 0.436,
+      "clicks": 0.0046,
+      "clicksPrev": 0.0044,
+      "impressions": 0.1023,
+      "impressionsPrev": 0.089
+    },
+    "solo": 0.9631
+  },
+  "COG": {
+    "name": "Congo",
+    "participants": 2030785,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.2173,
+        "desktopPrev": 0.1522,
+        "tablet": 0.0825,
+        "tabletPrev": 0.0656,
+        "mobile": 0.1491,
+        "mobilePrev": 0.1584
+      },
+      "clicks": {
+        "desktop": 0.0465,
+        "desktopPrev": 0.0489,
+        "tablet": 0.183,
+        "tabletPrev": 0.205,
+        "mobile": 0.0509,
+        "mobilePrev": 0.0554
+      },
+      "revenue": {
+        "desktop": 1,
+        "desktopPrev": 0.9737,
+        "tablet": 0.0187,
+        "tabletPrev": 0.0173,
+        "mobile": 0.126,
+        "mobilePrev": 0.1639
+      }
+    },
+    "dimensions": {
+      "overall": 0.7186,
+      "overallPrev": 0.4964,
+      "clicks": 0.0425,
+      "clicksPrev": 0.0435,
+      "impressions": 0.2525,
+      "impressionsPrev": 0.319
+    },
+    "solo": 0.9604
+  },
+  "DJI": {
+    "name": "Djibouti",
+    "participants": 409504,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.286,
+        "desktopPrev": 0.272,
+        "tablet": 0.1508,
+        "tabletPrev": 0.1245,
+        "mobile": 0.0446,
+        "mobilePrev": 0.0468
+      },
+      "clicks": {
+        "desktop": 0.2283,
+        "desktopPrev": 0.2256,
+        "tablet": 0.191,
+        "tabletPrev": 0.2179,
+        "mobile": 0.0044,
+        "mobilePrev": 0.0053
+      },
+      "revenue": {
+        "desktop": 0.4442,
+        "desktopPrev": 0.5987,
+        "tablet": 0.1763,
+        "tabletPrev": 0.187,
+        "mobile": 0.021,
+        "mobilePrev": 0.0208
+      }
+    },
+    "dimensions": {
+      "overall": 0.2401,
+      "overallPrev": 0.2192,
+      "clicks": 0.0573,
+      "clicksPrev": 0.0586,
+      "impressions": 0.3055,
+      "impressionsPrev": 0.2173
+    },
+    "solo": 0.9794
+  },
+  "DZA": {
+    "name": "Algeria",
+    "participants": 29957981,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.1511,
+        "desktopPrev": 0.1539,
+        "tablet": 0.2878,
+        "tabletPrev": 0.2797,
+        "mobile": 0.2711,
+        "mobilePrev": 0.3143
+      },
+      "clicks": {
+        "desktop": 0.0857,
+        "desktopPrev": 0.094,
+        "tablet": 0.1861,
+        "tabletPrev": 0.1749,
+        "mobile": 0.4421,
+        "mobilePrev": 0.5839
+      },
+      "revenue": {
+        "desktop": 0.0639,
+        "desktopPrev": 0.0673,
+        "tablet": 0.0531,
+        "tabletPrev": 0.0516,
+        "mobile": 0.4668,
+        "mobilePrev": 0.6973
+      }
+    },
+    "dimensions": {
+      "overall": 0.1884,
+      "overallPrev": 0.1886,
+      "clicks": 0.1079,
+      "clicksPrev": 0.1335,
+      "impressions": 0.4241,
+      "impressionsPrev": 0.3511
+    },
+    "solo": 0.9992
+  },
+  "EGY": {
+    "name": "Egypt",
+    "participants": 67045424,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.2353,
+        "desktopPrev": 0.2797,
+        "tablet": 0.0356,
+        "tabletPrev": 0.0339,
+        "mobile": 0.4478,
+        "mobilePrev": 0.3453
+      },
+      "clicks": {
+        "desktop": 0.5138,
+        "desktopPrev": 0.45,
+        "tablet": 0.0402,
+        "tabletPrev": 0.0349,
+        "mobile": 0.3929,
+        "mobilePrev": 0.5039
+      },
+      "revenue": {
+        "desktop": 0.2154,
+        "desktopPrev": 0.2632,
+        "tablet": 0.0307,
+        "tabletPrev": 0.0288,
+        "mobile": 0.3969,
+        "mobilePrev": 0.3619
+      }
+    },
+    "dimensions": {
+      "overall": 0.2093,
+      "overallPrev": 0.2851,
+      "clicks": 0.0634,
+      "clicksPrev": 0.0668,
+      "impressions": 0.3164,
+      "impressionsPrev": 0.2423
+    },
+    "solo": 0.9993
+  },
+  "ERI": {
+    "name": "Eritrea",
+    "participants": 2579382,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.1772,
+        "desktopPrev": 0.2189,
+        "tablet": 0.1481,
+        "tabletPrev": 0.1006,
+        "mobile": 0.0656,
+        "mobilePrev": 0.06
+      },
+      "clicks": {
+        "desktop": 0.372,
+        "desktopPrev": 0.3364,
+        "tablet": 0.0444,
+        "tabletPrev": 0.0505,
+        "mobile": 0.228,
+        "mobilePrev": 0.2124
+      },
+      "revenue": {
+        "desktop": 0.1355,
+        "desktopPrev": 0.1548,
+        "tablet": 0.1382,
+        "tabletPrev": 0.1306,
+        "mobile": 0.4002,
+        "mobilePrev": 0.4462
+      }
+    },
+    "dimensions": {
+      "overall": 0.4533,
+      "overallPrev": 0.4482,
+      "clicks": 0.1761,
+      "clicksPrev": 0.2133,
+      "impressions": 0.2303,
+      "impressionsPrev": 0.207
+    },
+    "solo": 0.957
+  },
+  "ETH": {
+    "name": "Ethiopia",
+    "participants": 73727718,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0286,
+        "desktopPrev": 0.0289,
+        "tablet": 0.2624,
+        "tabletPrev": 0.2642,
+        "mobile": 0.0426,
+        "mobilePrev": 0.0443
+      },
+      "clicks": {
+        "desktop": 0.1004,
+        "desktopPrev": 0.0911,
+        "tablet": 0.4571,
+        "tabletPrev": 0.5094,
+        "mobile": 0.1176,
+        "mobilePrev": 0.126
+      },
+      "revenue": {
+        "desktop": 0.16,
+        "desktopPrev": 0.1926,
+        "tablet": 0.0738,
+        "tabletPrev": 0.0622,
+        "mobile": 0.0228,
+        "mobilePrev": 0.0213
+      }
+    },
+    "dimensions": {
+      "overall": 0.455,
+      "overallPrev": 0.5027,
+      "clicks": 0.0319,
+      "clicksPrev": 0.0456,
+      "impressions": 0.3299,
+      "impressionsPrev": 0.2906
+    },
+    "solo": 0.9765
+  },
+  "GAB": {
+    "name": "Gabon",
+    "participants": 1709,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.7925,
+        "desktopPrev": 0.9154,
+        "tablet": 0.0963,
+        "tabletPrev": 0.1035,
+        "mobile": 0.022,
+        "mobilePrev": 0.021
+      },
+      "clicks": {
+        "desktop": 0.5223,
+        "desktopPrev": 0.6047,
+        "tablet": 0.1161,
+        "tabletPrev": 0.1339,
+        "mobile": 0.218,
+        "mobilePrev": 0.1799
+      },
+      "revenue": {
+        "desktop": 0.0131,
+        "desktopPrev": 0.0122,
+        "tablet": 0.0234,
+        "tabletPrev": 0.0234,
+        "mobile": 0.221,
+        "mobilePrev": 0.1927
+      }
+    },
+    "dimensions": {
+      "overall": 0.4713,
+      "overallPrev": 0.5292,
+      "clicks": 0.0125,
+      "clicksPrev": 0.013,
+      "impressions": 0.0746,
+      "impressionsPrev": 0.081
+    },
+    "solo": 0.9949
+  },
+  "GHA": {
+    "name": "Ghana",
+    "participants": 3306487,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.5423,
+        "desktopPrev": 0.4634,
+        "tablet": 0.3821,
+        "tabletPrev": 0.3804,
+        "mobile": 0.1018,
+        "mobilePrev": 0.1214
+      },
+      "clicks": {
+        "desktop": 0.2785,
+        "desktopPrev": 0.2011,
+        "tablet": 0.2342,
+        "tabletPrev": 0.2732,
+        "mobile": 0.0163,
+        "mobilePrev": 0.0165
+      },
+      "revenue": {
+        "desktop": 0.0958,
+        "desktopPrev": 0.1026,
+        "tablet": 0.0443,
+        "tabletPrev": 0.033,
+        "mobile": 0.0129,
+        "mobilePrev": 0.0088
+      }
+    },
+    "dimensions": {
+      "overall": 0.3023,
+      "overallPrev": 0.1982,
+      "clicks": 0.0121,
+      "clicksPrev": 0.0136,
+      "impressions": 0.0528,
+      "impressionsPrev": 0.0543
+    },
+    "solo": 0.9981
+  },
+  "GIN": {
+    "name": "Guinea",
+    "participants": 2585740,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.1911,
+        "desktopPrev": 0.1993,
+        "tablet": 0.0516,
+        "tabletPrev": 0.049,
+        "mobile": 0.1117,
+        "mobilePrev": 0.1048
+      },
+      "clicks": {
+        "desktop": 0.4282,
+        "desktopPrev": 0.474,
+        "tablet": 0.1331,
+        "tabletPrev": 0.1308,
+        "mobile": 0.3281,
+        "mobilePrev": 0.3324
+      },
+      "revenue": {
+        "desktop": 0.0578,
+        "desktopPrev": 0.0604,
+        "tablet": 0.0374,
+        "tabletPrev": 0.0471,
+        "mobile": 0.0499,
+        "mobilePrev": 0.0458
+      }
+    },
+    "dimensions": {
+      "overall": 0.3049,
+      "overallPrev": 0.4069,
+      "clicks": 0.1588,
+      "clicksPrev": 0.1621,
+      "impressions": 0.2621,
+      "impressionsPrev": 0.1898
+    },
+    "solo": 0.9889
+  },
+  "GMB": {
+    "name": "Gambia",
+    "participants": 298136,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0813,
+        "desktopPrev": 0.0979,
+        "tablet": 0.1708,
+        "tabletPrev": 0.1147,
+        "mobile": 0.4532,
+        "mobilePrev": 0.3919
+      },
+      "clicks": {
+        "desktop": 0.0259,
+        "desktopPrev": 0.0331,
+        "tablet": 0.0893,
+        "tabletPrev": 0.0947,
+        "mobile": 0.3647,
+        "mobilePrev": 0.3048
+      },
+      "revenue": {
+        "desktop": 0.0398,
+        "desktopPrev": 0.0299,
+        "tablet": 0.0056,
+        "tabletPrev": 0.0066,
+        "mobile": 0.2533,
+        "mobilePrev": 0.258
+      }
+    },
+    "dimensions": {
+      "overall": 0.3287,
+      "overallPrev": 0.3295,
+      "clicks": 0.0694,
+      "clicksPrev": 0.0785,
+      "impressions": 0.0313,
+      "impressionsPrev": 0.0366
+    },
+    "solo": 0.9798
+  },
+  "GNB": {
+    "name": "Guinea-Bissau",
+    "participants": 137242,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0786,
+        "desktopPrev": 0.0793,
+        "tablet": 0.0313,
+        "tabletPrev": 0.0302,
+        "mobile": 0.0495,
+        "mobilePrev": 0.0414
+      },
+      "clicks": {
+        "desktop": 0.5185,
+        "desktopPrev": 0.4963,
+        "tablet": 0.1518,
+        "tabletPrev": 0.147,
+        "mobile": 0.492,
+        "mobilePrev": 0.3669
+      },
+      "revenue": {
+        "desktop": 0.0606,
+        "desktopPrev": 0.0904,
+        "tablet": 0.0634,
+        "tabletPrev": 0.0668,
+        "mobile": 0.0259,
+        "mobilePrev": 0.0328
+      }
+    },
+    "dimensions": {
+      "overall": 0.1565,
+      "overallPrev": 0.1636,
+      "clicks": 0.1036,
+      "clicksPrev": 0.1222,
+      "impressions": 0.1872,
+      "impressionsPrev": 0.196
+    },
+    "solo": 0.9717
+  },
+  "GNQ": {
+    "name": "Eq. Guinea",
+    "participants": 219140,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.6019,
+        "desktopPrev": 0.5692,
+        "tablet": 0.0016,
+        "tabletPrev": 0.0017,
+        "mobile": 0.0275,
+        "mobilePrev": 0.0262
+      },
+      "clicks": {
+        "desktop": 0.1778,
+        "desktopPrev": 0.1851,
+        "tablet": 0.0006,
+        "tabletPrev": 0.0004,
+        "mobile": 0.2014,
+        "mobilePrev": 0.1979
+      },
+      "revenue": {
+        "desktop": 0.0804,
+        "desktopPrev": 0.0969,
+        "tablet": 0.0062,
+        "tabletPrev": 0.006,
+        "mobile": 0.0342,
+        "mobilePrev": 0.0339
+      }
+    },
+    "dimensions": {
+      "overall": 0.3574,
+      "overallPrev": 0.423,
+      "clicks": 0.1858,
+      "clicksPrev": 0.1851,
+      "impressions": 0.2137,
+      "impressionsPrev": 0.1726
+    },
+    "solo": 0.999
+  },
+  "KEN": {
+    "name": "Kenya",
+    "participants": 626110,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.4253,
+        "desktopPrev": 0.3755,
+        "tablet": 0.0118,
+        "tabletPrev": 0.0111,
+        "mobile": 0.2379,
+        "mobilePrev": 0.219
+      },
+      "clicks": {
+        "desktop": 0.3834,
+        "desktopPrev": 0.5225,
+        "tablet": 0.0492,
+        "tabletPrev": 0.0385,
+        "mobile": 0.0547,
+        "mobilePrev": 0.0521
+      },
+      "revenue": {
+        "desktop": 0.5754,
+        "desktopPrev": 0.4489,
+        "tablet": 0.2492,
+        "tabletPrev": 0.3069,
+        "mobile": 0.2288,
+        "mobilePrev": 0.1822
+      }
+    },
+    "dimensions": {
+      "overall": 0.3387,
+      "overallPrev": 0.3027,
+      "clicks": 0.0361,
+      "clicksPrev": 0.0332,
+      "impressions": 0.4369,
+      "impressionsPrev": 0.4001
+    },
+    "solo": 0.9858
+  },
+  "LBR": {
+    "name": "Liberia",
+    "participants": 1243820,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.2678,
+        "desktopPrev": 0.3285,
+        "tablet": 0.201,
+        "tabletPrev": 0.1665,
+        "mobile": 0.2516,
+        "mobilePrev": 0.2242
+      },
+      "clicks": {
+        "desktop": 0.2208,
+        "desktopPrev": 0.217,
+        "tablet": 0.2648,
+        "tabletPrev": 0.365,
+        "mobile": 0.1883,
+        "mobilePrev": 0.1892
+      },
+      "revenue": {
+        "desktop": 0.3956,
+        "desktopPrev": 0.3051,
+        "tablet": 0.2757,
+        "tabletPrev": 0.3702,
+        "mobile": 0.1839,
+        "mobilePrev": 0.1645
+      }
+    },
+    "dimensions": {
+      "overall": 0.4002,
+      "overallPrev": 0.2683,
+      "clicks": 0.0278,
+      "clicksPrev": 0.0311,
+      "impressions": 0.1802,
+      "impressionsPrev": 0.1867
+    },
+    "solo": 0.9841
+  },
+  "LBY": {
+    "name": "Libya",
+    "participants": 971672,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.6844,
+        "desktopPrev": 0.7084,
+        "tablet": 0.2615,
+        "tabletPrev": 0.2791,
+        "mobile": 0.1951,
+        "mobilePrev": 0.2057
+      },
+      "clicks": {
+        "desktop": 0.4995,
+        "desktopPrev": 0.6308,
+        "tablet": 0.199,
+        "tabletPrev": 0.2603,
+        "mobile": 0.0299,
+        "mobilePrev": 0.0218
+      },
+      "revenue": {
+        "desktop": 0.2583,
+        "desktopPrev": 0.2531,
+        "tablet": 0.0801,
+        "tabletPrev": 0.092,
+        "mobile": 0.2062,
+        "mobilePrev": 0.1907
+      }
+    },
+    "dimensions": {
+      "overall": 0.5064,
+      "overallPrev": 0.4704,
+      "clicks": 0.002,
+      "clicksPrev": 0.0024,
+      "impressions": 0.2093,
+      "impressionsPrev": 0.222
+    },
+    "solo": 0.9804
+  },
+  "LSO": {
+    "name": "Lesotho",
+    "participants": 1432098,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.4431,
+        "desktopPrev": 0.3492,
+        "tablet": 0.1692,
+        "tabletPrev": 0.1722,
+        "mobile": 0.2487,
+        "mobilePrev": 0.2922
+      },
+      "clicks": {
+        "desktop": 0.2408,
+        "desktopPrev": 0.266,
+        "tablet": 0.0657,
+        "tabletPrev": 0.0638,
+        "mobile": 0.0578,
+        "mobilePrev": 0.0676
+      },
+      "revenue": {
+        "desktop": 0.6866,
+        "desktopPrev": 0.589,
+        "tablet": 0.0695,
+        "tabletPrev": 0.0724,
+        "mobile": 0.0494,
+        "mobilePrev": 0.0474
+      }
+    },
+    "dimensions": {
+      "overall": 0.5162,
+      "overallPrev": 0.5092,
+      "clicks": 0.1472,
+      "clicksPrev": 0.1662,
+      "impressions": 0.2957,
+      "impressionsPrev": 0.2504
+    },
+    "solo": 0.9833
+  },
+  "MAR": {
+    "name": "Morocco",
+    "participants": 16816047,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.6612,
+        "desktopPrev": 0.5721,
+        "tablet": 0.0697,
+        "tabletPrev": 0.0728,
+        "mobile": 0.5714,
+        "mobilePrev": 0.5785
+      },
+      "clicks": {
+        "desktop": 0.0172,
+        "desktopPrev": 0.0181,
+        "tablet": 0.0279,
+        "tabletPrev": 0.0241,
+        "mobile": 0.166,
+        "mobilePrev": 0.1494
+      },
+      "revenue": {
+        "desktop": 0.162,
+        "desktopPrev": 0.1387,
+        "tablet": 0.1888,
+        "tabletPrev": 0.222,
+        "mobile": 0.287,
+        "mobilePrev": 0.308
+      }
+    },
+    "dimensions": {
+      "overall": 0.4906,
+      "overallPrev": 0.591,
+      "clicks": 0.0204,
+      "clicksPrev": 0.0211,
+      "impressions": 0.2138,
+      "impressionsPrev": 0.1619
+    },
+    "solo": 0.9755
+  },
+  "MDG": {
+    "name": "Madagascar",
+    "participants": 17041914,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.1311,
+        "desktopPrev": 0.1561,
+        "tablet": 0.0155,
+        "tabletPrev": 0.0157,
+        "mobile": 0.0458,
+        "mobilePrev": 0.0321
+      },
+      "clicks": {
+        "desktop": 0.1141,
+        "desktopPrev": 0.1284,
+        "tablet": 0.0152,
+        "tabletPrev": 0.0146,
+        "mobile": 0.0373,
+        "mobilePrev": 0.0336
+      },
+      "revenue": {
+        "desktop": 0.1587,
+        "desktopPrev": 0.1504,
+        "tablet": 0.3,
+        "tabletPrev": 0.2959,
+        "mobile": 0.1384,
+        "mobilePrev": 0.1373
+      }
+    },
+    "dimensions": {
+      "overall": 0.1923,
+      "overallPrev": 0.1943,
+      "clicks": 0.2403,
+      "clicksPrev": 0.173,
+      "impressions": 0.3328,
+      "impressionsPrev": 0.3539
+    },
+    "solo": 0.983
+  },
+  "MLI": {
+    "name": "Mali",
+    "participants": 2866544,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.9212,
+        "desktopPrev": 0.8241,
+        "tablet": 0.1309,
+        "tabletPrev": 0.186,
+        "mobile": 0.1234,
+        "mobilePrev": 0.1228
+      },
+      "clicks": {
+        "desktop": 0.401,
+        "desktopPrev": 0.4196,
+        "tablet": 0.2535,
+        "tabletPrev": 0.2332,
+        "mobile": 0.0368,
+        "mobilePrev": 0.0378
+      },
+      "revenue": {
+        "desktop": 0.8098,
+        "desktopPrev": 0.7532,
+        "tablet": 0.3682,
+        "tabletPrev": 0.2973,
+        "mobile": 0.0038,
+        "mobilePrev": 0.0036
+      }
+    },
+    "dimensions": {
+      "overall": 0.607,
+      "overallPrev": 0.7085,
+      "clicks": 0.0969,
+      "clicksPrev": 0.074,
+      "impressions": 0.3727,
+      "impressionsPrev": 0.365
+    },
+    "solo": 0.9573
+  },
+  "MOZ": {
+    "name": "Mozambique",
+    "participants": 10574223,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.5092,
+        "desktopPrev": 0.6164,
+        "tablet": 0.1669,
+        "tabletPrev": 0.1228,
+        "mobile": 0.1265,
+        "mobilePrev": 0.1538
+      },
+      "clicks": {
+        "desktop": 0.0837,
+        "desktopPrev": 0.0839,
+        "tablet": 0.0256,
+        "tabletPrev": 0.0216,
+        "mobile": 0.6288,
+        "mobilePrev": 0.4735
+      },
+      "revenue": {
+        "desktop": 0.4701,
+        "desktopPrev": 0.4023,
+        "tablet": 0.0388,
+        "tabletPrev": 0.044,
+        "mobile": 0.4325,
+        "mobilePrev": 0.3918
+      }
+    },
+    "dimensions": {
+      "overall": 0.3027,
+      "overallPrev": 0.3064,
+      "clicks": 0.0283,
+      "clicksPrev": 0.0402,
+      "impressions": 0.1395,
+      "impressionsPrev": 0.1477
+    },
+    "solo": 0.9685
+  },
+  "MRT": {
+    "name": "Mauritania",
+    "participants": 1481100,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.1162,
+        "desktopPrev": 0.1373,
+        "tablet": 0.2664,
+        "tabletPrev": 0.2901,
+        "mobile": 0.021,
+        "mobilePrev": 0.019
+      },
+      "clicks": {
+        "desktop": 0.2169,
+        "desktopPrev": 0.2055,
+        "tablet": 0.0633,
+        "tabletPrev": 0.0503,
+        "mobile": 0.3512,
+        "mobilePrev": 0.3376
+      },
+      "revenue": {
+        "desktop": 0.1579,
+        "desktopPrev": 0.2154,
+        "tablet": 0.1828,
+        "tabletPrev": 0.1593,
+        "mobile": 0.1327,
+        "mobilePrev": 0.1255
+      }
+    },
+    "dimensions": {
+      "overall": 0.7205,
+      "overallPrev": 0.7558,
+      "clicks": 0.0701,
+      "clicksPrev": 0.0824,
+      "impressions": 0.039,
+      "impressionsPrev": 0.0408
+    },
+    "solo": 0.9735
+  },
+  "MWI": {
+    "name": "Malawi",
+    "participants": 10355101,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.5316,
+        "desktopPrev": 0.686,
+        "tablet": 0.0705,
+        "tabletPrev": 0.0662,
+        "mobile": 0.354,
+        "mobilePrev": 0.4677
+      },
+      "clicks": {
+        "desktop": 0.0227,
+        "desktopPrev": 0.0335,
+        "tablet": 0.0456,
+        "tabletPrev": 0.0577,
+        "mobile": 0.0934,
+        "mobilePrev": 0.1279
+      },
+      "revenue": {
+        "desktop": 0.2057,
+        "desktopPrev": 0.2204,
+        "tablet": 0.1367,
+        "tabletPrev": 0.1661,
+        "mobile": 0.1361,
+        "mobilePrev": 0.1326
+      }
+    },
+    "dimensions": {
+      "overall": 0.2678,
+      "overallPrev": 0.2991,
+      "clicks": 0.0508,
+      "clicksPrev": 0.062,
+      "impressions": 0.2121,
+      "impressionsPrev": 0.1652
+    },
+    "solo": 0.9654
+  },
+  "NAM": {
+    "name": "Namibia",
+    "participants": 1411103,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.4205,
+        "desktopPrev": 0.5508,
+        "tablet": 0.1759,
+        "tabletPrev": 0.1636,
+        "mobile": 0.2409,
+        "mobilePrev": 0.2198
+      },
+      "clicks": {
+        "desktop": 0.104,
+        "desktopPrev": 0.0948,
+        "tablet": 0.1075,
+        "tabletPrev": 0.0928,
+        "mobile": 0.335,
+        "mobilePrev": 0.2809
+      },
+      "revenue": {
+        "desktop": 0.0635,
+        "desktopPrev": 0.068,
+        "tablet": 0.2206,
+        "tabletPrev": 0.3043,
+        "mobile": 0.2881,
+        "mobilePrev": 0.3096
+      }
+    },
+    "dimensions": {
+      "overall": 0.6032,
+      "overallPrev": 0.6412,
+      "clicks": 0.0782,
+      "clicksPrev": 0.0738,
+      "impressions": 0.1327,
+      "impressionsPrev": 0.1067
+    },
+    "solo": 0.9783
+  },
+  "NER": {
+    "name": "Niger",
+    "participants": 14712678,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.6344,
+        "desktopPrev": 0.7626,
+        "tablet": 0.2029,
+        "tabletPrev": 0.1687,
+        "mobile": 0.0727,
+        "mobilePrev": 0.0598
+      },
+      "clicks": {
+        "desktop": 0.1869,
+        "desktopPrev": 0.1773,
+        "tablet": 0.1925,
+        "tabletPrev": 0.1941,
+        "mobile": 0.1351,
+        "mobilePrev": 0.1137
+      },
+      "revenue": {
+        "desktop": 0.5133,
+        "desktopPrev": 0.5068,
+        "tablet": 0.2601,
+        "tabletPrev": 0.2901,
+        "mobile": 0.1434,
+        "mobilePrev": 0.1442
+      }
+    },
+    "dimensions": {
+      "overall": 0.2224,
+      "overallPrev": 0.2347,
+      "clicks": 0.0547,
+      "clicksPrev": 0.0593,
+      "impressions": 0.3297,
+      "impressionsPrev": 0.4477
+    },
+    "solo": 0.9781
+  },
+  "NGA": {
+    "name": "Nigeria",
+    "participants": 99888625,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0412,
+        "desktopPrev": 0.0376,
+        "tablet": 0.0499,
+        "tabletPrev": 0.0565,
+        "mobile": 1,
+        "mobilePrev": 1
+      },
+      "clicks": {
+        "desktop": 0.0382,
+        "desktopPrev": 0.0411,
+        "tablet": 0.0553,
+        "tabletPrev": 0.0537,
+        "mobile": 0.5559,
+        "mobilePrev": 0.5184
+      },
+      "revenue": {
+        "desktop": 0.0168,
+        "desktopPrev": 0.0183,
+        "tablet": 0.0101,
+        "tabletPrev": 0.0079,
+        "mobile": 0.198,
+        "mobilePrev": 0.1849
+      }
+    },
+    "dimensions": {
+      "overall": 0.2516,
+      "overallPrev": 0.2739,
+      "clicks": 0.0877,
+      "clicksPrev": 0.0869,
+      "impressions": 0.1311,
+      "impressionsPrev": 0.1323
+    },
+    "solo": 0.9695
+  },
+  "RWA": {
+    "name": "Rwanda",
+    "participants": 3792758,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.6782,
+        "desktopPrev": 0.6203,
+        "tablet": 0.1066,
+        "tabletPrev": 0.1037,
+        "mobile": 0.2779,
+        "mobilePrev": 0.2308
+      },
+      "clicks": {
+        "desktop": 0.3012,
+        "desktopPrev": 0.3229,
+        "tablet": 0.0585,
+        "tabletPrev": 0.0688,
+        "mobile": 0.2736,
+        "mobilePrev": 0.2219
+      },
+      "revenue": {
+        "desktop": 0.7937,
+        "desktopPrev": 0.6085,
+        "tablet": 0.0973,
+        "tabletPrev": 0.0833,
+        "mobile": 0.2176,
+        "mobilePrev": 0.2006
+      }
+    },
+    "dimensions": {
+      "overall": 0.1245,
+      "overallPrev": 0.1589,
+      "clicks": 0.0442,
+      "clicksPrev": 0.0492,
+      "impressions": 0.1934,
+      "impressionsPrev": 0.2133
+    },
+    "solo": 0.9572
+  },
+  "SAH": {
+    "name": "W. Sahara",
+    "participants": -76,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0076,
+        "desktopPrev": 0.0109,
+        "tablet": 0.0674,
+        "tabletPrev": 0.0571,
+        "mobile": 0.474,
+        "mobilePrev": 0.5055
+      },
+      "clicks": {
+        "desktop": 0.1764,
+        "desktopPrev": 0.1512,
+        "tablet": 0.111,
+        "tabletPrev": 0.1121,
+        "mobile": 0.0681,
+        "mobilePrev": 0.0608
+      },
+      "revenue": {
+        "desktop": 0.2021,
+        "desktopPrev": 0.1939,
+        "tablet": 0.1535,
+        "tabletPrev": 0.1491,
+        "mobile": 0.6976,
+        "mobilePrev": 0.5601
+      }
+    },
+    "dimensions": {
+      "overall": 0.5968,
+      "overallPrev": 0.6493,
+      "clicks": 0.1117,
+      "clicksPrev": 0.1014,
+      "impressions": 0.1828,
+      "impressionsPrev": 0.2436
+    },
+    "solo": 0.9798
+  },
+  "SDN": {
+    "name": "Sudan",
+    "participants": 24157193,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.3746,
+        "desktopPrev": 0.5197,
+        "tablet": 0.0112,
+        "tabletPrev": 0.011,
+        "mobile": 0.139,
+        "mobilePrev": 0.144
+      },
+      "clicks": {
+        "desktop": 0.8396,
+        "desktopPrev": 0.8624,
+        "tablet": 0.154,
+        "tabletPrev": 0.1548,
+        "mobile": 0.0648,
+        "mobilePrev": 0.0663
+      },
+      "revenue": {
+        "desktop": 0.0325,
+        "desktopPrev": 0.0227,
+        "tablet": 0.2052,
+        "tabletPrev": 0.2908,
+        "mobile": 0.1367,
+        "mobilePrev": 0.1601
+      }
+    },
+    "dimensions": {
+      "overall": 0.3571,
+      "overallPrev": 0.3391,
+      "clicks": 0.1895,
+      "clicksPrev": 0.2124,
+      "impressions": 0.2127,
+      "impressionsPrev": 0.1635
+    },
+    "solo": 0.9738
+  },
+  "SDS": {
+    "name": "S. Sudan",
+    "participants": 769483,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.307,
+        "desktopPrev": 0.2568,
+        "tablet": 0.3765,
+        "tabletPrev": 0.3967,
+        "mobile": 0.2163,
+        "mobilePrev": 0.2507
+      },
+      "clicks": {
+        "desktop": 0.657,
+        "desktopPrev": 0.6898,
+        "tablet": 0.2157,
+        "tabletPrev": 0.1981,
+        "mobile": 0.1461,
+        "mobilePrev": 0.1324
+      },
+      "revenue": {
+        "desktop": 0.155,
+        "desktopPrev": 0.1527,
+        "tablet": 0.2277,
+        "tabletPrev": 0.1877,
+        "mobile": 0.0722,
+        "mobilePrev": 0.0581
+      }
+    },
+    "dimensions": {
+      "overall": 0.0495,
+      "overallPrev": 0.0565,
+      "clicks": 0.0447,
+      "clicksPrev": 0.0485,
+      "impressions": 0.298,
+      "impressionsPrev": 0.2896
+    },
+    "solo": 0.9964
+  },
+  "SEN": {
+    "name": "Senegal",
+    "participants": 12231542,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0954,
+        "desktopPrev": 0.0954,
+        "tablet": 0.0219,
+        "tabletPrev": 0.0267,
+        "mobile": 0.2077,
+        "mobilePrev": 0.1995
+      },
+      "clicks": {
+        "desktop": 0.0066,
+        "desktopPrev": 0.0065,
+        "tablet": 0.0189,
+        "tabletPrev": 0.0186,
+        "mobile": 0.2768,
+        "mobilePrev": 0.2409
+      },
+      "revenue": {
+        "desktop": 0.2267,
+        "desktopPrev": 0.2285,
+        "tablet": 0.2415,
+        "tabletPrev": 0.1892,
+        "mobile": 0.0108,
+        "mobilePrev": 0.0088
+      }
+    },
+    "dimensions": {
+      "overall": 0.3943,
+      "overallPrev": 0.5308,
+      "clicks": 0.0633,
+      "clicksPrev": 0.0674,
+      "impressions": 0.0962,
+      "impressionsPrev": 0.1202
+    },
+    "solo": 0.9635
+  },
+  "SLE": {
+    "name": "Sierra Leone",
+    "participants": 2257242,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.1235,
+        "desktopPrev": 0.1038,
+        "tablet": 0.2016,
+        "tabletPrev": 0.1646,
+        "mobile": 0.1911,
+        "mobilePrev": 0.1698
+      },
+      "clicks": {
+        "desktop": 0.1961,
+        "desktopPrev": 0.1552,
+        "tablet": 0.2823,
+        "tabletPrev": 0.2487,
+        "mobile": 0.0694,
+        "mobilePrev": 0.0706
+      },
+      "revenue": {
+        "desktop": 0.0802,
+        "desktopPrev": 0.0925,
+        "tablet": 0.1321,
+        "tabletPrev": 0.1102,
+        "mobile": 0.0746,
+        "mobilePrev": 0.1067
+      }
+    },
+    "dimensions": {
+      "overall": 0.2654,
+      "overallPrev": 0.2625,
+      "clicks": 0.0516,
+      "clicksPrev": 0.0426,
+      "impressions": 0.1331,
+      "impressionsPrev": 0.1262
+    },
+    "solo": 0.9995
+  },
+  "SOM": {
+    "name": "Somalia",
+    "participants": 1174301,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.6354,
+        "desktopPrev": 0.4163,
+        "tablet": 0.3394,
+        "tabletPrev": 0.2754,
+        "mobile": 0.02,
+        "mobilePrev": 0.0197
+      },
+      "clicks": {
+        "desktop": 0.4522,
+        "desktopPrev": 0.5811,
+        "tablet": 0.265,
+        "tabletPrev": 0.2976,
+        "mobile": 0.0912,
+        "mobilePrev": 0.079
+      },
+      "revenue": {
+        "desktop": 0.4039,
+        "desktopPrev": 0.4187,
+        "tablet": 0.1405,
+        "tabletPrev": 0.1336,
+        "mobile": 0.061,
+        "mobilePrev": 0.0588
+      }
+    },
+    "dimensions": {
+      "overall": 0.1302,
+      "overallPrev": 0.1196,
+      "clicks": 0.1632,
+      "clicksPrev": 0.1877,
+      "impressions": 0.0987,
+      "impressionsPrev": 0.1018
+    },
+    "solo": 0.9987
+  },
+  "SWZ": {
+    "name": "Swaziland",
+    "participants": 1118759,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0446,
+        "desktopPrev": 0.0493,
+        "tablet": 0.1735,
+        "tabletPrev": 0.2049,
+        "mobile": 0.5044,
+        "mobilePrev": 0.3487
+      },
+      "clicks": {
+        "desktop": 0.1558,
+        "desktopPrev": 0.1492,
+        "tablet": 0.1651,
+        "tabletPrev": 0.1457,
+        "mobile": 0.5591,
+        "mobilePrev": 0.5876
+      },
+      "revenue": {
+        "desktop": 0.0131,
+        "desktopPrev": 0.0142,
+        "tablet": 0.1849,
+        "tabletPrev": 0.1909,
+        "mobile": 0.3964,
+        "mobilePrev": 0.3991
+      }
+    },
+    "dimensions": {
+      "overall": 0.0739,
+      "overallPrev": 0.0674,
+      "clicks": 0.0064,
+      "clicksPrev": 0.0068,
+      "impressions": 0.2229,
+      "impressionsPrev": 0.2405
+    },
+    "solo": 0.9601
+  },
+  "TCD": {
+    "name": "Chad",
+    "participants": 316262,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.1449,
+        "desktopPrev": 0.1053,
+        "tablet": 0.2968,
+        "tabletPrev": 0.2951,
+        "mobile": 0.6723,
+        "mobilePrev": 0.6529
+      },
+      "clicks": {
+        "desktop": 0.1124,
+        "desktopPrev": 0.1331,
+        "tablet": 0.2644,
+        "tabletPrev": 0.2106,
+        "mobile": 0.0033,
+        "mobilePrev": 0.0036
+      },
+      "revenue": {
+        "desktop": 0.069,
+        "desktopPrev": 0.0574,
+        "tablet": 0.0654,
+        "tabletPrev": 0.0616,
+        "mobile": 0.6663,
+        "mobilePrev": 0.4763
+      }
+    },
+    "dimensions": {
+      "overall": 0.7141,
+      "overallPrev": 0.6232,
+      "clicks": 0.0672,
+      "clicksPrev": 0.0784,
+      "impressions": 0.234,
+      "impressionsPrev": 0.1854
+    },
+    "solo": 0.9651
+  },
+  "TGO": {
+    "name": "Togo",
+    "participants": 1173705,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.2431,
+        "desktopPrev": 0.2835,
+        "tablet": 0.0558,
+        "tabletPrev": 0.0605,
+        "mobile": 0.5698,
+        "mobilePrev": 0.6906
+      },
+      "clicks": {
+        "desktop": 0.4505,
+        "desktopPrev": 0.3539,
+        "tablet": 0.1258,
+        "tabletPrev": 0.1023,
+        "mobile": 0.1525,
+        "mobilePrev": 0.1177
+      },
+      "revenue": {
+        "desktop": 0.2415,
+        "desktopPrev": 0.1748,
+        "tablet": 0.0387,
+        "tabletPrev": 0.0362,
+        "mobile": 0.1917,
+        "mobilePrev": 0.1918
+      }
+    },
+    "dimensions": {
+      "overall": 0.2276,
+      "overallPrev": 0.2524,
+      "clicks": 0.0364,
+      "clicksPrev": 0.0334,
+      "impressions": 0.1111,
+      "impressionsPrev": 0.0977
+    },
+    "solo": 0.9922
+  },
+  "TUN": {
+    "name": "Tunisia",
+    "participants": 7277384,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.2862,
+        "desktopPrev": 0.2176,
+        "tablet": 0.0205,
+        "tabletPrev": 0.0197,
+        "mobile": 0.5294,
+        "mobilePrev": 0.524
+      },
+      "clicks": {
+        "desktop": 0.3384,
+        "desktopPrev": 0.2662,
+        "tablet": 0.007,
+        "tabletPrev": 0.0059,
+        "mobile": 0.0211,
+        "mobilePrev": 0.022
+      },
+      "revenue": {
+        "desktop": 0.1867,
+        "desktopPrev": 0.2261,
+        "tablet": 0.1243,
+        "tabletPrev": 0.1306,
+        "mobile": 0.5313,
+        "mobilePrev": 0.5897
+      }
+    },
+    "dimensions": {
+      "overall": 0.5138,
+      "overallPrev": 0.7025,
+      "clicks": 0.0994,
+      "clicksPrev": 0.1066,
+      "impressions": 0.066,
+      "impressionsPrev": 0.0806
+    },
+    "solo": 0.9889
+  },
+  "TZA": {
+    "name": "Tanzania",
+    "participants": 26693040,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.2483,
+        "desktopPrev": 0.2264,
+        "tablet": 0.0296,
+        "tabletPrev": 0.031,
+        "mobile": 0.0116,
+        "mobilePrev": 0.0117
+      },
+      "clicks": {
+        "desktop": 0.1199,
+        "desktopPrev": 0.1332,
+        "tablet": 0.0144,
+        "tabletPrev": 0.0165,
+        "mobile": 0.6953,
+        "mobilePrev": 0.7048
+      },
+      "revenue": {
+        "desktop": 0.3029,
+        "desktopPrev": 0.3098,
+        "tablet": 0.042,
+        "tabletPrev": 0.0473,
+        "mobile": 0.4216,
+        "mobilePrev": 0.5232
+      }
+    },
+    "dimensions": {
+      "overall": 0.3803,
+      "overallPrev": 0.4757,
+      "clicks": 0.0341,
+      "clicksPrev": 0.0328,
+      "impressions": 0.0781,
+      "impressionsPrev": 0.0762
+    },
+    "solo": 0.999
+  },
+  "UGA": {
+    "name": "Uganda",
+    "participants": 13953058,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.8273,
+        "desktopPrev": 0.7915,
+        "tablet": 0.3272,
+        "tabletPrev": 0.4203,
+        "mobile": 0.0411,
+        "mobilePrev": 0.0392
+      },
+      "clicks": {
+        "desktop": 0.0389,
+        "desktopPrev": 0.0477,
+        "tablet": 0.3969,
+        "tabletPrev": 0.3726,
+        "mobile": 0.0126,
+        "mobilePrev": 0.0135
+      },
+      "revenue": {
+        "desktop": 0.0534,
+        "desktopPrev": 0.056,
+        "tablet": 0.0414,
+        "tabletPrev": 0.052,
+        "mobile": 0.031,
+        "mobilePrev": 0.0365
+      }
+    },
+    "dimensions": {
+      "overall": 0.5453,
+      "overallPrev": 0.4546,
+      "clicks": 0.1729,
+      "clicksPrev": 0.1708,
+      "impressions": 0.1043,
+      "impressionsPrev": 0.1231
+    },
+    "solo": 0.9974
+  },
+  "ZAF": {
+    "name": "South Africa",
+    "participants": 14533084,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.9562,
+        "desktopPrev": 1,
+        "tablet": 0.3229,
+        "tabletPrev": 0.2461,
+        "mobile": 0.001,
+        "mobilePrev": 0.001
+      },
+      "clicks": {
+        "desktop": 0.4955,
+        "desktopPrev": 0.6169,
+        "tablet": 0.177,
+        "tabletPrev": 0.1864,
+        "mobile": 0.0018,
+        "mobilePrev": 0.0014
+      },
+      "revenue": {
+        "desktop": 0.2618,
+        "desktopPrev": 0.2119,
+        "tablet": 0.1161,
+        "tabletPrev": 0.1287,
+        "mobile": 0.0015,
+        "mobilePrev": 0.0015
+      }
+    },
+    "dimensions": {
+      "overall": 0.1037,
+      "overallPrev": 0.1283,
+      "clicks": 0.095,
+      "clicksPrev": 0.1087,
+      "impressions": 0.0793,
+      "impressionsPrev": 0.0648
+    },
+    "solo": 0.994
+  },
+  "ZMB": {
+    "name": "Zambia",
+    "participants": 9898548,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.2762,
+        "desktopPrev": 0.2747,
+        "tablet": 0.1369,
+        "tabletPrev": 0.1739,
+        "mobile": 0.0668,
+        "mobilePrev": 0.0526
+      },
+      "clicks": {
+        "desktop": 0.4065,
+        "desktopPrev": 0.3344,
+        "tablet": 0.2703,
+        "tabletPrev": 0.2939,
+        "mobile": 0.0965,
+        "mobilePrev": 0.0788
+      },
+      "revenue": {
+        "desktop": 0.4585,
+        "desktopPrev": 0.4605,
+        "tablet": 0.1622,
+        "tabletPrev": 0.1852,
+        "mobile": 0.1182,
+        "mobilePrev": 0.1555
+      }
+    },
+    "dimensions": {
+      "overall": 0.6352,
+      "overallPrev": 0.7596,
+      "clicks": 0.1588,
+      "clicksPrev": 0.1397,
+      "impressions": 0.2481,
+      "impressionsPrev": 0.2227
+    },
+    "solo": 0.9747
+  },
+  "ZWE": {
+    "name": "Zimbabwe",
+    "participants": 12509287,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.203,
+        "desktopPrev": 0.1647,
+        "tablet": 0.0025,
+        "tabletPrev": 0.0023,
+        "mobile": 0.1102,
+        "mobilePrev": 0.0893
+      },
+      "clicks": {
+        "desktop": 0.195,
+        "desktopPrev": 0.1748,
+        "tablet": 0,
+        "tabletPrev": 0,
+        "mobile": 0.5436,
+        "mobilePrev": 0.6052
+      },
+      "revenue": {
+        "desktop": 0.3487,
+        "desktopPrev": 0.4344,
+        "tablet": 0.0628,
+        "tabletPrev": 0.0593,
+        "mobile": 0.7051,
+        "mobilePrev": 0.812
+      }
+    },
+    "dimensions": {
+      "overall": 0.5084,
+      "overallPrev": 0.5032,
+      "clicks": 0.0641,
+      "clicksPrev": 0.0561,
+      "impressions": 0.2005,
+      "impressionsPrev": 0.2488
+    },
+    "solo": 0.9845
+  },
+  "EU": {
+    "name": "Europe",
+    "participants": 370169253,
+    "solo": 0.9687,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0494,
+        "desktopPrev": 0.0534,
+        "tablet": 0.0584,
+        "tabletPrev": 0.0533,
+        "mobile": 0.5386,
+        "mobilePrev": 0.5763
+      },
+      "clicks": {
+        "desktop": 0.0539,
+        "desktopPrev": 0.0459,
+        "tablet": 0.0562,
+        "tabletPrev": 0.0521,
+        "mobile": 0.5396,
+        "mobilePrev": 0.5598
+      },
+      "revenue": {
+        "desktop": 0.0416,
+        "desktopPrev": 0.0408,
+        "tablet": 0.0357,
+        "tabletPrev": 0.0343,
+        "mobile": 0.4184,
+        "mobilePrev": 0.3994
+      }
+    },
+    "dimensions": {
+      "overall": 0.1394,
+      "overallPrev": 0,
+      "clicks": 0.3673,
+      "clicksPrev": 0,
+      "impressions": 0.1212,
+      "impressionsPrev": 0
+    }
+  },
+  "ALB": {
+    "name": "Albania",
+    "participants": 770835,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0262,
+        "desktopPrev": 0.0177,
+        "tablet": 0.0915,
+        "tabletPrev": 0.0963,
+        "mobile": 0.7138,
+        "mobilePrev": 0.9131
+      },
+      "clicks": {
+        "desktop": 0.0371,
+        "desktopPrev": 0.032,
+        "tablet": 0.0605,
+        "tabletPrev": 0.0634,
+        "mobile": 0.9367,
+        "mobilePrev": 0.7116
+      },
+      "revenue": {
+        "desktop": 0.0821,
+        "desktopPrev": 0.0906,
+        "tablet": 0.0843,
+        "tabletPrev": 0.0884,
+        "mobile": 0.8743,
+        "mobilePrev": 0.7735
+      }
+    },
+    "dimensions": {
+      "overall": 0.3224,
+      "overallPrev": 0.2172,
+      "clicks": 0.2484,
+      "clicksPrev": 0.3757,
+      "impressions": 0.0568,
+      "impressionsPrev": 0.0695
+    },
+    "solo": 0.9504
+  },
+  "AUT": {
+    "name": "Austria",
+    "participants": 7480248,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0818,
+        "desktopPrev": 0.0784,
+        "tablet": 0.0334,
+        "tabletPrev": 0.0292,
+        "mobile": 0.0998,
+        "mobilePrev": 0.0858
+      },
+      "clicks": {
+        "desktop": 0.0492,
+        "desktopPrev": 0.0536,
+        "tablet": 0.0414,
+        "tabletPrev": 0.0401,
+        "mobile": 0.2266,
+        "mobilePrev": 0.3285
+      },
+      "revenue": {
+        "desktop": 0.0231,
+        "desktopPrev": 0.0211,
+        "tablet": 0.0241,
+        "tabletPrev": 0.0338,
+        "mobile": 0.1817,
+        "mobilePrev": 0.2174
+      }
+    },
+    "dimensions": {
+      "overall": 0.1808,
+      "overallPrev": 0.171,
+      "clicks": 0.1369,
+      "clicksPrev": 0.1317,
+      "impressions": 0.3503,
+      "impressionsPrev": 0.2775
+    },
+    "solo": 0.9631
+  },
+  "BEL": {
+    "name": "Belgium",
+    "participants": 9604985,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0428,
+        "desktopPrev": 0.0407,
+        "tablet": 0.2116,
+        "tabletPrev": 0.22,
+        "mobile": 0.3307,
+        "mobilePrev": 0.3384
+      },
+      "clicks": {
+        "desktop": 0.0125,
+        "desktopPrev": 0.0175,
+        "tablet": 0.0446,
+        "tabletPrev": 0.0389,
+        "mobile": 0.119,
+        "mobilePrev": 0.1253
+      },
+      "revenue": {
+        "desktop": 0.0257,
+        "desktopPrev": 0.0253,
+        "tablet": 0.2203,
+        "tabletPrev": 0.189,
+        "mobile": 0.3328,
+        "mobilePrev": 0.3983
+      }
+    },
+    "dimensions": {
+      "overall": 0.094,
+      "overallPrev": 0.0912,
+      "clicks": 0.5247,
+      "clicksPrev": 0.4544,
+      "impressions": 0.1902,
+      "impressionsPrev": 0.1697
+    },
+    "solo": 0.9895
+  },
+  "BGR": {
+    "name": "Bulgaria",
+    "participants": 3588790,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0439,
+        "desktopPrev": 0.0396,
+        "tablet": 0.1097,
+        "tabletPrev": 0.0916,
+        "mobile": 1,
+        "mobilePrev": 1
+      },
+      "clicks": {
+        "desktop": 0.0134,
+        "desktopPrev": 0.0136,
+        "tablet": 0.0468,
+        "tabletPrev": 0.0461,
+        "mobile": 0.2897,
+        "mobilePrev": 0.3229
+      },
+      "revenue": {
+        "desktop": 0.0031,
+        "desktopPrev": 0.0031,
+        "tablet": 0.0196,
+        "tabletPrev": 0.0243,
+        "mobile": 0.7341,
+        "mobilePrev": 0.7808
+      }
+    },
+    "dimensions": {
+      "overall": 0.1202,
+      "overallPrev": 0.0991,
+      "clicks": 0.2316,
+      "clicksPrev": 0.2184,
+      "impressions": 0.214,
+      "impressionsPrev": 0.2286
+    },
+    "solo": 0.9868
+  },
+  "BIH": {
+    "name": "Bosnia and Herz.",
+    "participants": 1774255,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0321,
+        "desktopPrev": 0.0322,
+        "tablet": 0.064,
+        "tabletPrev": 0.0655,
+        "mobile": 0.09,
+        "mobilePrev": 0.084
+      },
+      "clicks": {
+        "desktop": 0.0545,
+        "desktopPrev": 0.0612,
+        "tablet": 0.0101,
+        "tabletPrev": 0.0084,
+        "mobile": 0.201,
+        "mobilePrev": 0.1709
+      },
+      "revenue": {
+        "desktop": 0.122,
+        "desktopPrev": 0.126,
+        "tablet": 0.105,
+        "tabletPrev": 0.0876,
+        "mobile": 0.1632,
+        "mobilePrev": 0.1678
+      }
+    },
+    "dimensions": {
+      "overall": 0.1983,
+      "overallPrev": 0.2436,
+      "clicks": 0.3791,
+      "clicksPrev": 0.4161,
+      "impressions": 0.0445,
+      "impressionsPrev": 0.0487
+    },
+    "solo": 0.9726
+  },
+  "BLR": {
+    "name": "Belarus",
+    "participants": 7593998,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0526,
+        "desktopPrev": 0.0488,
+        "tablet": 0.0667,
+        "tabletPrev": 0.0667,
+        "mobile": 0.2636,
+        "mobilePrev": 0.289
+      },
+      "clicks": {
+        "desktop": 0.0496,
+        "desktopPrev": 0.045,
+        "tablet": 0.0525,
+        "tabletPrev": 0.0675,
+        "mobile": 0.4105,
+        "mobilePrev": 0.3869
+      },
+      "revenue": {
+        "desktop": 0.0028,
+        "desktopPrev": 0.0031,
+        "tablet": 0.0691,
+        "tabletPrev": 0.0544,
+        "mobile": 0.2831,
+        "mobilePrev": 0.259
+      }
+    },
+    "dimensions": {
+      "overall": 0.1374,
+      "overallPrev": 0.1346,
+      "clicks": 0.3367,
+      "clicksPrev": 0.2669,
+      "impressions": 0.0329,
+      "impressionsPrev": 0.026
+    },
+    "solo": 0.9507
+  },
+  "CHE": {
+    "name": "Switzerland",
+    "participants": 7306287,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0925,
+        "desktopPrev": 0.1349,
+        "tablet": 0.0348,
+        "tabletPrev": 0.0325,
+        "mobile": 0.6275,
+        "mobilePrev": 0.6332
+      },
+      "clicks": {
+        "desktop": 0.064,
+        "desktopPrev": 0.0787,
+        "tablet": 0.0703,
+        "tabletPrev": 0.0699,
+        "mobile": 0.5526,
+        "mobilePrev": 0.4883
+      },
+      "revenue": {
+        "desktop": 0.0661,
+        "desktopPrev": 0.0838,
+        "tablet": 0.0901,
+        "tabletPrev": 0.0842,
+        "mobile": 0.7122,
+        "mobilePrev": 0.6836
+      }
+    },
+    "dimensions": {
+      "overall": 0.0645,
+      "overallPrev": 0.0634,
+      "clicks": 0.6461,
+      "clicksPrev": 0.6645,
+      "impressions": 0.0967,
+      "impressionsPrev": 0.1007
+    },
+    "solo": 0.9856
+  },
+  "CYP": {
+    "name": "Cyprus",
+    "participants": 317546,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0531,
+        "desktopPrev": 0.0404,
+        "tablet": 0.0186,
+        "tabletPrev": 0.0184,
+        "mobile": 0.9941,
+        "mobilePrev": 1
+      },
+      "clicks": {
+        "desktop": 0.034,
+        "desktopPrev": 0.0294,
+        "tablet": 0.028,
+        "tabletPrev": 0.0277,
+        "mobile": 0.153,
+        "mobilePrev": 0.1563
+      },
+      "revenue": {
+        "desktop": 0.0411,
+        "desktopPrev": 0.0333,
+        "tablet": 0.0461,
+        "tabletPrev": 0.0427,
+        "mobile": 0.2849,
+        "mobilePrev": 0.2231
+      }
+    },
+    "dimensions": {
+      "overall": 0.23,
+      "overallPrev": 0.1602,
+      "clicks": 0.5585,
+      "clicksPrev": 0.6229,
+      "impressions": 0.0704,
+      "impressionsPrev": 0.0709
+    },
+    "solo": 0.941
+  },
+  "CZE": {
+    "name": "Czech Rep.",
+    "participants": 6911853,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0009,
+        "desktopPrev": 0.0012,
+        "tablet": 0.0256,
+        "tabletPrev": 0.0276,
+        "mobile": 1,
+        "mobilePrev": 1
+      },
+      "clicks": {
+        "desktop": 0.0063,
+        "desktopPrev": 0.0053,
+        "tablet": 0.0379,
+        "tabletPrev": 0.0378,
+        "mobile": 1,
+        "mobilePrev": 1
+      },
+      "revenue": {
+        "desktop": 0.0091,
+        "desktopPrev": 0.0087,
+        "tablet": 0.0272,
+        "tabletPrev": 0.0272,
+        "mobile": 1,
+        "mobilePrev": 1
+      }
+    },
+    "dimensions": {
+      "overall": 0.2202,
+      "overallPrev": 0.2269,
+      "clicks": 0.7296,
+      "clicksPrev": 0.6608,
+      "impressions": 0.0799,
+      "impressionsPrev": 0.063
+    },
+    "solo": 0.9356
+  },
+  "DEU": {
+    "name": "Germany",
+    "participants": 35708427,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0081,
+        "desktopPrev": 0.0072,
+        "tablet": 0.0242,
+        "tabletPrev": 0.0227,
+        "mobile": 0.2991,
+        "mobilePrev": 0.2833
+      },
+      "clicks": {
+        "desktop": 0.024,
+        "desktopPrev": 0.0268,
+        "tablet": 0.0893,
+        "tabletPrev": 0.0828,
+        "mobile": 1,
+        "mobilePrev": 1
+      },
+      "revenue": {
+        "desktop": 0.0289,
+        "desktopPrev": 0.0319,
+        "tablet": 0.0443,
+        "tabletPrev": 0.0483,
+        "mobile": 0.0183,
+        "mobilePrev": 0.0185
+      }
+    },
+    "dimensions": {
+      "overall": 0.031,
+      "overallPrev": 0.0352,
+      "clicks": 0.5089,
+      "clicksPrev": 0.5315,
+      "impressions": 0.199,
+      "impressionsPrev": 0.2498
+    },
+    "solo": 0.9554
+  },
+  "DNK": {
+    "name": "Denmark",
+    "participants": 2894823,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0049,
+        "desktopPrev": 0.0073,
+        "tablet": 0.0665,
+        "tabletPrev": 0.0635,
+        "mobile": 1,
+        "mobilePrev": 1
+      },
+      "clicks": {
+        "desktop": 0.0033,
+        "desktopPrev": 0.0034,
+        "tablet": 0.0548,
+        "tabletPrev": 0.0499,
+        "mobile": 1,
+        "mobilePrev": 1
+      },
+      "revenue": {
+        "desktop": 0.0133,
+        "desktopPrev": 0.0096,
+        "tablet": 0.0255,
+        "tabletPrev": 0.0226,
+        "mobile": 1,
+        "mobilePrev": 1
+      }
+    },
+    "dimensions": {
+      "overall": 0.0822,
+      "overallPrev": 0.0691,
+      "clicks": 0.3833,
+      "clicksPrev": 0.4934,
+      "impressions": 0.1375,
+      "impressionsPrev": 0.1432
+    },
+    "solo": 0.999
+  },
+  "ESP": {
+    "name": "Spain",
+    "participants": 34909053,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.028,
+        "desktopPrev": 0.0299,
+        "tablet": 0.1005,
+        "tabletPrev": 0.0789,
+        "mobile": 0.3124,
+        "mobilePrev": 0.284
+      },
+      "clicks": {
+        "desktop": 0.0207,
+        "desktopPrev": 0.0237,
+        "tablet": 0.0744,
+        "tabletPrev": 0.0684,
+        "mobile": 0.0431,
+        "mobilePrev": 0.0469
+      },
+      "revenue": {
+        "desktop": 0.0476,
+        "desktopPrev": 0.0451,
+        "tablet": 0.0438,
+        "tabletPrev": 0.0512,
+        "mobile": 1,
+        "mobilePrev": 0.8139
+      }
+    },
+    "dimensions": {
+      "overall": 0.056,
+      "overallPrev": 0.0554,
+      "clicks": 0.5644,
+      "clicksPrev": 0.5757,
+      "impressions": 0.1191,
+      "impressionsPrev": 0.1355
+    },
+    "solo": 0.9453
+  },
+  "EST": {
+    "name": "Estonia",
+    "participants": 749654,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0654,
+        "desktopPrev": 0.0903,
+        "tablet": 0.0254,
+        "tabletPrev": 0.0334,
+        "mobile": 0.2262,
+        "mobilePrev": 0.2196
+      },
+      "clicks": {
+        "desktop": 0.1225,
+        "desktopPrev": 0.1362,
+        "tablet": 0.0339,
+        "tabletPrev": 0.0279,
+        "mobile": 0.2501,
+        "mobilePrev": 0.2726
+      },
+      "revenue": {
+        "desktop": 0.1029,
+        "desktopPrev": 0.1264,
+        "tablet": 0.062,
+        "tabletPrev": 0.0592,
+        "mobile": 0.381,
+        "mobilePrev": 0.3936
+      }
+    },
+    "dimensions": {
+      "overall": 0.1665,
+      "overallPrev": 0.19,
+      "clicks": 0.2947,
+      "clicksPrev": 0.2875,
+      "impressions": 0.2123,
+      "impressionsPrev": 0.1697
+    },
+    "solo": 0.9643
+  },
+  "FIN": {
+    "name": "Finland",
+    "participants": 3876489,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0899,
+        "desktopPrev": 0.0826,
+        "tablet": 0.0338,
+        "tabletPrev": 0.0304,
+        "mobile": 0.5822,
+        "mobilePrev": 0.5177
+      },
+      "clicks": {
+        "desktop": 0.0776,
+        "desktopPrev": 0.0771,
+        "tablet": 0.0636,
+        "tabletPrev": 0.0802,
+        "mobile": 1,
+        "mobilePrev": 0.9197
+      },
+      "revenue": {
+        "desktop": 0.0293,
+        "desktopPrev": 0.0295,
+        "tablet": 0.038,
+        "tabletPrev": 0.0302,
+        "mobile": 0.772,
+        "mobilePrev": 0.7947
+      }
+    },
+    "dimensions": {
+      "overall": 0.2529,
+      "overallPrev": 0.2208,
+      "clicks": 0.8275,
+      "clicksPrev": 0.7538,
+      "impressions": 0.1965,
+      "impressionsPrev": 0.1426
+    },
+    "solo": 0.9288
+  },
+  "FRA": {
+    "name": "France",
+    "participants": 44220617,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0076,
+        "desktopPrev": 0.009,
+        "tablet": 0.1463,
+        "tabletPrev": 0.117,
+        "mobile": 0.5083,
+        "mobilePrev": 0.7019
+      },
+      "clicks": {
+        "desktop": 0.0328,
+        "desktopPrev": 0.0285,
+        "tablet": 0.0859,
+        "tabletPrev": 0.0694,
+        "mobile": 0.784,
+        "mobilePrev": 0.9113
+      },
+      "revenue": {
+        "desktop": 0.01,
+        "desktopPrev": 0.0106,
+        "tablet": 0.0263,
+        "tabletPrev": 0.0238,
+        "mobile": 1,
+        "mobilePrev": 1
+      }
+    },
+    "dimensions": {
+      "overall": 0.1656,
+      "overallPrev": 0.171,
+      "clicks": 0.6294,
+      "clicksPrev": 0.7548,
+      "impressions": 0.0044,
+      "impressionsPrev": 0.004
+    },
+    "solo": 0.9545
+  },
+  "GBR": {
+    "name": "United Kingdom",
+    "participants": 32168791,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0553,
+        "desktopPrev": 0.0529,
+        "tablet": 0.0797,
+        "tabletPrev": 0.0784,
+        "mobile": 0.0355,
+        "mobilePrev": 0.0351
+      },
+      "clicks": {
+        "desktop": 0.0109,
+        "desktopPrev": 0.0115,
+        "tablet": 0.0698,
+        "tabletPrev": 0.0675,
+        "mobile": 0.1039,
+        "mobilePrev": 0.0841
+      },
+      "revenue": {
+        "desktop": 0.0879,
+        "desktopPrev": 0.078,
+        "tablet": 0.0214,
+        "tabletPrev": 0.0161,
+        "mobile": 0.0409,
+        "mobilePrev": 0.0409
+      }
+    },
+    "dimensions": {
+      "overall": 0.1216,
+      "overallPrev": 0.16,
+      "clicks": 0.325,
+      "clicksPrev": 0.3038,
+      "impressions": 0.1737,
+      "impressionsPrev": 0.2337
+    },
+    "solo": 0.9885
+  },
+  "GRC": {
+    "name": "Greece",
+    "participants": 5096086,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0363,
+        "desktopPrev": 0.0367,
+        "tablet": 0.0725,
+        "tabletPrev": 0.0964,
+        "mobile": 0.4425,
+        "mobilePrev": 0.462
+      },
+      "clicks": {
+        "desktop": 0.046,
+        "desktopPrev": 0.0337,
+        "tablet": 0.0356,
+        "tabletPrev": 0.0293,
+        "mobile": 0.2003,
+        "mobilePrev": 0.1673
+      },
+      "revenue": {
+        "desktop": 0.0005,
+        "desktopPrev": 0.0005,
+        "tablet": 0.0274,
+        "tabletPrev": 0.0295,
+        "mobile": 0.7135,
+        "mobilePrev": 0.6913
+      }
+    },
+    "dimensions": {
+      "overall": 0.1568,
+      "overallPrev": 0.12,
+      "clicks": 0.6618,
+      "clicksPrev": 0.6471,
+      "impressions": 0.0334,
+      "impressionsPrev": 0.0335
+    },
+    "solo": 0.972
+  },
+  "HRV": {
+    "name": "Croatia",
+    "participants": 1591538,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0372,
+        "desktopPrev": 0.0419,
+        "tablet": 0.0197,
+        "tabletPrev": 0.0167,
+        "mobile": 0.4127,
+        "mobilePrev": 0.4681
+      },
+      "clicks": {
+        "desktop": 0.0289,
+        "desktopPrev": 0.0244,
+        "tablet": 0.0094,
+        "tabletPrev": 0.0116,
+        "mobile": 0.7271,
+        "mobilePrev": 0.6733
+      },
+      "revenue": {
+        "desktop": 0.0735,
+        "desktopPrev": 0.0698,
+        "tablet": 0.0477,
+        "tabletPrev": 0.033,
+        "mobile": 0.1444,
+        "mobilePrev": 0.2015
+      }
+    },
+    "dimensions": {
+      "overall": 0.0111,
+      "overallPrev": 0.0112,
+      "clicks": 0.6771,
+      "clicksPrev": 0.7323,
+      "impressions": 0.2723,
+      "impressionsPrev": 0.2232
+    },
+    "solo": 0.9281
+  },
+  "HUN": {
+    "name": "Hungary",
+    "participants": 6394874,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0318,
+        "desktopPrev": 0.0297,
+        "tablet": 0.0779,
+        "tabletPrev": 0.1051,
+        "mobile": 1,
+        "mobilePrev": 1
+      },
+      "clicks": {
+        "desktop": 0.0824,
+        "desktopPrev": 0.0618,
+        "tablet": 0.0838,
+        "tabletPrev": 0.1017,
+        "mobile": 0.9243,
+        "mobilePrev": 0.9914
+      },
+      "revenue": {
+        "desktop": 0.0555,
+        "desktopPrev": 0.0583,
+        "tablet": 0.0312,
+        "tabletPrev": 0.0411,
+        "mobile": 0.1902,
+        "mobilePrev": 0.2803
+      }
+    },
+    "dimensions": {
+      "overall": 0.1859,
+      "overallPrev": 0.1454,
+      "clicks": 0.0007,
+      "clicksPrev": 0.0007,
+      "impressions": 0.2818,
+      "impressionsPrev": 0.2598
+    },
+    "solo": 0.9874
+  },
+  "IRL": {
+    "name": "Ireland",
+    "participants": 3680940,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0612,
+        "desktopPrev": 0.0554,
+        "tablet": 0.0275,
+        "tabletPrev": 0.024,
+        "mobile": 0.7697,
+        "mobilePrev": 0.5962
+      },
+      "clicks": {
+        "desktop": 0.0163,
+        "desktopPrev": 0.0227,
+        "tablet": 0.0462,
+        "tabletPrev": 0.0448,
+        "mobile": 0.2109,
+        "mobilePrev": 0.1897
+      },
+      "revenue": {
+        "desktop": 0.0372,
+        "desktopPrev": 0.0394,
+        "tablet": 0.0057,
+        "tabletPrev": 0.007,
+        "mobile": 0.7709,
+        "mobilePrev": 0.8466
+      }
+    },
+    "dimensions": {
+      "overall": 0.2093,
+      "overallPrev": 0.1889,
+      "clicks": 0.0563,
+      "clicksPrev": 0.0597,
+      "impressions": 0.1783,
+      "impressionsPrev": 0.1924
+    },
+    "solo": 0.952
+  },
+  "ISL": {
+    "name": "Iceland",
+    "participants": 247350,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0272,
+        "desktopPrev": 0.0263,
+        "tablet": 0.09,
+        "tabletPrev": 0.0976,
+        "mobile": 0.7427,
+        "mobilePrev": 0.5339
+      },
+      "clicks": {
+        "desktop": 0.0523,
+        "desktopPrev": 0.0468,
+        "tablet": 0.1028,
+        "tabletPrev": 0.1207,
+        "mobile": 0.1904,
+        "mobilePrev": 0.1429
+      },
+      "revenue": {
+        "desktop": 0.0247,
+        "desktopPrev": 0.0238,
+        "tablet": 0.0045,
+        "tabletPrev": 0.0045,
+        "mobile": 0.4099,
+        "mobilePrev": 0.4821
+      }
+    },
+    "dimensions": {
+      "overall": 0.0879,
+      "overallPrev": 0.0914,
+      "clicks": 0.3727,
+      "clicksPrev": 0.2782,
+      "impressions": 0.2289,
+      "impressionsPrev": 0.2019
+    },
+    "solo": 0.9391
+  },
+  "ITA": {
+    "name": "Italy",
+    "participants": 55919943,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.1332,
+        "desktopPrev": 0.1479,
+        "tablet": 0.0045,
+        "tabletPrev": 0.0046,
+        "mobile": 0.6891,
+        "mobilePrev": 0.75
+      },
+      "clicks": {
+        "desktop": 0.198,
+        "desktopPrev": 0.1437,
+        "tablet": 0.0105,
+        "tabletPrev": 0.009,
+        "mobile": 0.1869,
+        "mobilePrev": 0.234
+      },
+      "revenue": {
+        "desktop": 0.0518,
+        "desktopPrev": 0.0537,
+        "tablet": 0.0043,
+        "tabletPrev": 0.0036,
+        "mobile": 0.0224,
+        "mobilePrev": 0.0257
+      }
+    },
+    "dimensions": {
+      "overall": 0.2482,
+      "overallPrev": 0.2201,
+      "clicks": 0.0215,
+      "clicksPrev": 0.0319,
+      "impressions": 0.0984,
+      "impressionsPrev": 0.0906
+    },
+    "solo": 0.9929
+  },
+  "LTU": {
+    "name": "Lithuania",
+    "participants": 1723148,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0246,
+        "desktopPrev": 0.0226,
+        "tablet": 0.0039,
+        "tabletPrev": 0.0038,
+        "mobile": 0.1778,
+        "mobilePrev": 0.1325
+      },
+      "clicks": {
+        "desktop": 0.052,
+        "desktopPrev": 0.0712,
+        "tablet": 0.0273,
+        "tabletPrev": 0.0298,
+        "mobile": 0.2706,
+        "mobilePrev": 0.253
+      },
+      "revenue": {
+        "desktop": 0.0092,
+        "desktopPrev": 0.0066,
+        "tablet": 0.0132,
+        "tabletPrev": 0.0125,
+        "mobile": 0.4394,
+        "mobilePrev": 0.4497
+      }
+    },
+    "dimensions": {
+      "overall": 0.0818,
+      "overallPrev": 0.0917,
+      "clicks": 0.571,
+      "clicksPrev": 0.5585,
+      "impressions": 0.121,
+      "impressionsPrev": 0.1586
+    },
+    "solo": 0.992
+  },
+  "LUX": {
+    "name": "Luxembourg",
+    "participants": 461909,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0844,
+        "desktopPrev": 0.0943,
+        "tablet": 0.0293,
+        "tabletPrev": 0.0306,
+        "mobile": 0.2361,
+        "mobilePrev": 0.2423
+      },
+      "clicks": {
+        "desktop": 0.0925,
+        "desktopPrev": 0.0751,
+        "tablet": 0.164,
+        "tabletPrev": 0.1414,
+        "mobile": 0.2687,
+        "mobilePrev": 0.2334
+      },
+      "revenue": {
+        "desktop": 0.12,
+        "desktopPrev": 0.1034,
+        "tablet": 0.0318,
+        "tabletPrev": 0.0402,
+        "mobile": 0.1685,
+        "mobilePrev": 0.1713
+      }
+    },
+    "dimensions": {
+      "overall": 0.1495,
+      "overallPrev": 0.1326,
+      "clicks": 0.1621,
+      "clicksPrev": 0.2116,
+      "impressions": 0.1513,
+      "impressionsPrev": 0.1424
+    },
+    "solo": 0.965
+  },
+  "LVA": {
+    "name": "Latvia",
+    "participants": 379756,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0197,
+        "desktopPrev": 0.0196,
+        "tablet": 0.0118,
+        "tabletPrev": 0.0123,
+        "mobile": 1,
+        "mobilePrev": 1
+      },
+      "clicks": {
+        "desktop": 0.0118,
+        "desktopPrev": 0.0172,
+        "tablet": 0.0262,
+        "tabletPrev": 0.0307,
+        "mobile": 1,
+        "mobilePrev": 1
+      },
+      "revenue": {
+        "desktop": 0.0321,
+        "desktopPrev": 0.0279,
+        "tablet": 0.0055,
+        "tabletPrev": 0.0082,
+        "mobile": 1,
+        "mobilePrev": 1
+      }
+    },
+    "dimensions": {
+      "overall": 0.1535,
+      "overallPrev": 0.2012,
+      "clicks": 0.0871,
+      "clicksPrev": 0.1,
+      "impressions": 0.073,
+      "impressionsPrev": 0.0777
+    },
+    "solo": 0.9595
+  },
+  "MDA": {
+    "name": "Moldova",
+    "participants": 2582154,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0296,
+        "desktopPrev": 0.0184,
+        "tablet": 0.0374,
+        "tabletPrev": 0.0367,
+        "mobile": 0.0339,
+        "mobilePrev": 0.025
+      },
+      "clicks": {
+        "desktop": 0.0082,
+        "desktopPrev": 0.0092,
+        "tablet": 0.0348,
+        "tabletPrev": 0.0364,
+        "mobile": 0.9164,
+        "mobilePrev": 0.8107
+      },
+      "revenue": {
+        "desktop": 0.0064,
+        "desktopPrev": 0.0069,
+        "tablet": 0.0039,
+        "tabletPrev": 0.004,
+        "mobile": 0.6023,
+        "mobilePrev": 0.611
+      }
+    },
+    "dimensions": {
+      "overall": 0.1644,
+      "overallPrev": 0.1498,
+      "clicks": 0.361,
+      "clicksPrev": 0.3557,
+      "impressions": 0.0078,
+      "impressionsPrev": 0.0101
+    },
+    "solo": 0.9842
+  },
+  "MKD": {
+    "name": "Macedonia",
+    "participants": 188562,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0717,
+        "desktopPrev": 0.0775,
+        "tablet": 0.1019,
+        "tabletPrev": 0.0823,
+        "mobile": 0.066,
+        "mobilePrev": 0.0645
+      },
+      "clicks": {
+        "desktop": 0.1466,
+        "desktopPrev": 0.1901,
+        "tablet": 0.0607,
+        "tabletPrev": 0.0573,
+        "mobile": 0.0525,
+        "mobilePrev": 0.0579
+      },
+      "revenue": {
+        "desktop": 0.0534,
+        "desktopPrev": 0.0463,
+        "tablet": 0.1127,
+        "tabletPrev": 0.083,
+        "mobile": 0.0168,
+        "mobilePrev": 0.0137
+      }
+    },
+    "dimensions": {
+      "overall": 0.1054,
+      "overallPrev": 0.084,
+      "clicks": 0.7139,
+      "clicksPrev": 0.6424,
+      "impressions": 0.0546,
+      "impressionsPrev": 0.0634
+    },
+    "solo": 0.9751
+  },
+  "MNE": {
+    "name": "Montenegro",
+    "participants": 650961,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0573,
+        "desktopPrev": 0.061,
+        "tablet": 0.0241,
+        "tabletPrev": 0.0172,
+        "mobile": 0.6944,
+        "mobilePrev": 0.6917
+      },
+      "clicks": {
+        "desktop": 0.0122,
+        "desktopPrev": 0.0128,
+        "tablet": 0.0291,
+        "tabletPrev": 0.0322,
+        "mobile": 1,
+        "mobilePrev": 1
+      },
+      "revenue": {
+        "desktop": 0.0542,
+        "desktopPrev": 0.0468,
+        "tablet": 0.0373,
+        "tabletPrev": 0.024,
+        "mobile": 0.4562,
+        "mobilePrev": 0.4791
+      }
+    },
+    "dimensions": {
+      "overall": 0.161,
+      "overallPrev": 0.1477,
+      "clicks": 0.1267,
+      "clicksPrev": 0.1733,
+      "impressions": 0.0706,
+      "impressionsPrev": 0.0684
+    },
+    "solo": 0.9276
+  },
+  "NLD": {
+    "name": "Netherlands",
+    "participants": 6667145,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0324,
+        "desktopPrev": 0.0387,
+        "tablet": 0.1081,
+        "tabletPrev": 0.0869,
+        "mobile": 1,
+        "mobilePrev": 1
+      },
+      "clicks": {
+        "desktop": 0.0248,
+        "desktopPrev": 0.0227,
+        "tablet": 0.0274,
+        "tabletPrev": 0.0276,
+        "mobile": 0.5488,
+        "mobilePrev": 0.5347
+      },
+      "revenue": {
+        "desktop": 0.0175,
+        "desktopPrev": 0.0166,
+        "tablet": 0.0232,
+        "tabletPrev": 0.0231,
+        "mobile": 1,
+        "mobilePrev": 0.7652
+      }
+    },
+    "dimensions": {
+      "overall": 0.2641,
+      "overallPrev": 0.2659,
+      "clicks": 0.617,
+      "clicksPrev": 0.5934,
+      "impressions": 0.0233,
+      "impressionsPrev": 0.0232
+    },
+    "solo": 0.9992
+  },
+  "NOR": {
+    "name": "Norway",
+    "participants": 619281,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0224,
+        "desktopPrev": 0.0219,
+        "tablet": 0.0519,
+        "tabletPrev": 0.0734,
+        "mobile": 0.5297,
+        "mobilePrev": 0.5387
+      },
+      "clicks": {
+        "desktop": 0.0818,
+        "desktopPrev": 0.1003,
+        "tablet": 0.0124,
+        "tabletPrev": 0.0119,
+        "mobile": 0.4772,
+        "mobilePrev": 0.5777
+      },
+      "revenue": {
+        "desktop": 0.0979,
+        "desktopPrev": 0.0951,
+        "tablet": 0.0367,
+        "tabletPrev": 0.036,
+        "mobile": 0.3043,
+        "mobilePrev": 0.3543
+      }
+    },
+    "dimensions": {
+      "overall": 0.0276,
+      "overallPrev": 0.0291,
+      "clicks": 0.3676,
+      "clicksPrev": 0.287,
+      "impressions": 0.1022,
+      "impressionsPrev": 0.0942
+    },
+    "solo": 0.9349
+  },
+  "POL": {
+    "name": "Poland",
+    "participants": 12923670,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0613,
+        "desktopPrev": 0.0641,
+        "tablet": 0.0301,
+        "tabletPrev": 0.0279,
+        "mobile": 1,
+        "mobilePrev": 1
+      },
+      "clicks": {
+        "desktop": 0.0382,
+        "desktopPrev": 0.0397,
+        "tablet": 0.0337,
+        "tabletPrev": 0.0472,
+        "mobile": 1,
+        "mobilePrev": 1
+      },
+      "revenue": {
+        "desktop": 0.0756,
+        "desktopPrev": 0.0698,
+        "tablet": 0.0275,
+        "tabletPrev": 0.0319,
+        "mobile": 0.3658,
+        "mobilePrev": 0.369
+      }
+    },
+    "dimensions": {
+      "overall": 0.1388,
+      "overallPrev": 0.1661,
+      "clicks": 0.1967,
+      "clicksPrev": 0.2217,
+      "impressions": 0.0474,
+      "impressionsPrev": 0.0458
+    },
+    "solo": 0.9464
+  },
+  "PRT": {
+    "name": "Portugal",
+    "participants": 4642246,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0347,
+        "desktopPrev": 0.0553,
+        "tablet": 0.0736,
+        "tabletPrev": 0.0835,
+        "mobile": 0.3486,
+        "mobilePrev": 0.3821
+      },
+      "clicks": {
+        "desktop": 0.0863,
+        "desktopPrev": 0.0919,
+        "tablet": 0.0652,
+        "tabletPrev": 0.06,
+        "mobile": 0.037,
+        "mobilePrev": 0.0348
+      },
+      "revenue": {
+        "desktop": 0.0889,
+        "desktopPrev": 0.0691,
+        "tablet": 0.0939,
+        "tabletPrev": 0.0872,
+        "mobile": 0.2484,
+        "mobilePrev": 0.2592
+      }
+    },
+    "dimensions": {
+      "overall": 0.165,
+      "overallPrev": 0.1344,
+      "clicks": 0.396,
+      "clicksPrev": 0.3232,
+      "impressions": 0.1543,
+      "impressionsPrev": 0.1954
+    },
+    "solo": 0.9656
+  },
+  "ROU": {
+    "name": "Romania",
+    "participants": 8197166,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0252,
+        "desktopPrev": 0.0259,
+        "tablet": 0.0417,
+        "tabletPrev": 0.0408,
+        "mobile": 0.5452,
+        "mobilePrev": 0.5668
+      },
+      "clicks": {
+        "desktop": 0.0744,
+        "desktopPrev": 0.0809,
+        "tablet": 0.0132,
+        "tabletPrev": 0.0124,
+        "mobile": 1,
+        "mobilePrev": 1
+      },
+      "revenue": {
+        "desktop": 0.0152,
+        "desktopPrev": 0.0181,
+        "tablet": 0.0141,
+        "tabletPrev": 0.0154,
+        "mobile": 0.6647,
+        "mobilePrev": 0.6797
+      }
+    },
+    "dimensions": {
+      "overall": 0.0751,
+      "overallPrev": 0.0693,
+      "clicks": 0.6703,
+      "clicksPrev": 0.5867,
+      "impressions": 0.0705,
+      "impressionsPrev": 0.0721
+    },
+    "solo": 0.9899
+  },
+  "SRB": {
+    "name": "Serbia",
+    "participants": 5022778,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0082,
+        "desktopPrev": 0.0093,
+        "tablet": 0.1039,
+        "tabletPrev": 0.1293,
+        "mobile": 0.0947,
+        "mobilePrev": 0.0993
+      },
+      "clicks": {
+        "desktop": 0.0479,
+        "desktopPrev": 0.0412,
+        "tablet": 0.0651,
+        "tabletPrev": 0.0702,
+        "mobile": 0.3354,
+        "mobilePrev": 0.2978
+      },
+      "revenue": {
+        "desktop": 0.0011,
+        "desktopPrev": 0.0011,
+        "tablet": 0.0955,
+        "tabletPrev": 0.1004,
+        "mobile": 0.6706,
+        "mobilePrev": 0.6145
+      }
+    },
+    "dimensions": {
+      "overall": 0.2607,
+      "overallPrev": 0.2743,
+      "clicks": 0.2983,
+      "clicksPrev": 0.2977,
+      "impressions": 0.0872,
+      "impressionsPrev": 0.1038
+    },
+    "solo": 0.9968
+  },
+  "SVK": {
+    "name": "Slovakia",
+    "participants": 1594519,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.1019,
+        "desktopPrev": 0.1016,
+        "tablet": 0.0273,
+        "tabletPrev": 0.0253,
+        "mobile": 0.5714,
+        "mobilePrev": 0.5783
+      },
+      "clicks": {
+        "desktop": 0.1044,
+        "desktopPrev": 0.1032,
+        "tablet": 0.0793,
+        "tabletPrev": 0.0637,
+        "mobile": 0.4613,
+        "mobilePrev": 0.4595
+      },
+      "revenue": {
+        "desktop": 0.0684,
+        "desktopPrev": 0.0645,
+        "tablet": 0.0327,
+        "tabletPrev": 0.0265,
+        "mobile": 0.4149,
+        "mobilePrev": 0.4169
+      }
+    },
+    "dimensions": {
+      "overall": 0.1095,
+      "overallPrev": 0.1396,
+      "clicks": 0.7643,
+      "clicksPrev": 0.583,
+      "impressions": 0.0453,
+      "impressionsPrev": 0.0371
+    },
+    "solo": 0.9861
+  },
+  "SVN": {
+    "name": "Slovenia",
+    "participants": 1065513,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0037,
+        "desktopPrev": 0.0029,
+        "tablet": 0.1026,
+        "tabletPrev": 0.086,
+        "mobile": 0.1874,
+        "mobilePrev": 0.2346
+      },
+      "clicks": {
+        "desktop": 0.0316,
+        "desktopPrev": 0.0252,
+        "tablet": 0.0545,
+        "tabletPrev": 0.0571,
+        "mobile": 0.4091,
+        "mobilePrev": 0.5437
+      },
+      "revenue": {
+        "desktop": 0.0215,
+        "desktopPrev": 0.0223,
+        "tablet": 0.0422,
+        "tabletPrev": 0.038,
+        "mobile": 0.1292,
+        "mobilePrev": 0.1518
+      }
+    },
+    "dimensions": {
+      "overall": 0.06,
+      "overallPrev": 0.0634,
+      "clicks": 0.6622,
+      "clicksPrev": 0.6152,
+      "impressions": 0.0564,
+      "impressionsPrev": 0.0502
+    },
+    "solo": 0.9841
+  },
+  "SWE": {
+    "name": "Sweden",
+    "participants": 6070209,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0319,
+        "desktopPrev": 0.0288,
+        "tablet": 0.0167,
+        "tabletPrev": 0.0245,
+        "mobile": 0.9113,
+        "mobilePrev": 1
+      },
+      "clicks": {
+        "desktop": 0.0303,
+        "desktopPrev": 0.0312,
+        "tablet": 0.1061,
+        "tabletPrev": 0.1018,
+        "mobile": 0.4021,
+        "mobilePrev": 0.4472
+      },
+      "revenue": {
+        "desktop": 0.032,
+        "desktopPrev": 0.0264,
+        "tablet": 0.1541,
+        "tabletPrev": 0.1283,
+        "mobile": 0.3891,
+        "mobilePrev": 0.472
+      }
+    },
+    "dimensions": {
+      "overall": 0.1277,
+      "overallPrev": 0.1315,
+      "clicks": 0.3121,
+      "clicksPrev": 0.451,
+      "impressions": 0.244,
+      "impressionsPrev": 0.219
+    },
+    "solo": 0.9912
+  },
+  "UKR": {
+    "name": "Ukraine",
+    "participants": 44572854,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0451,
+        "desktopPrev": 0.0518,
+        "tablet": 0.0005,
+        "tabletPrev": 0.0005,
+        "mobile": 0.9303,
+        "mobilePrev": 1
+      },
+      "clicks": {
+        "desktop": 0.0024,
+        "desktopPrev": 0.0021,
+        "tablet": 0.0542,
+        "tabletPrev": 0.0438,
+        "mobile": 1,
+        "mobilePrev": 1
+      },
+      "revenue": {
+        "desktop": 0.0504,
+        "desktopPrev": 0.0485,
+        "tablet": 0.0135,
+        "tabletPrev": 0.0115,
+        "mobile": 0.1805,
+        "mobilePrev": 0.1526
+      }
+    },
+    "dimensions": {
+      "overall": 0.1072,
+      "overallPrev": 0.0784,
+      "clicks": 0.1632,
+      "clicksPrev": 0.1924,
+      "impressions": 0.1444,
+      "impressionsPrev": 0.144
+    },
+    "solo": 0.9595
+  },
+  "SA": {
+    "name": "South America",
+    "participants": 249913141,
+    "solo": 0.891,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.371,
+        "desktopPrev": 0.3905,
+        "tablet": 0.1111,
+        "tabletPrev": 0.1036,
+        "mobile": 0.1394,
+        "mobilePrev": 0.1459
+      },
+      "clicks": {
+        "desktop": 0.6716,
+        "desktopPrev": 0.5474,
+        "tablet": 0.0846,
+        "tabletPrev": 0.0848,
+        "mobile": 0.0493,
+        "mobilePrev": 0.0457
+      },
+      "revenue": {
+        "desktop": 0.5174,
+        "desktopPrev": 0.5063,
+        "tablet": 0.09,
+        "tabletPrev": 0.0866,
+        "mobile": 0.2744,
+        "mobilePrev": 0.2175
+      }
+    },
+    "dimensions": {
+      "overall": 0.235,
+      "overallPrev": 0,
+      "clicks": 0.1438,
+      "clicksPrev": 0,
+      "impressions": 0.1161,
+      "impressionsPrev": 0
+    }
+  },
+  "ARG": {
+    "name": "Argentina",
+    "participants": 9456064,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.4544,
+        "desktopPrev": 0.4422,
+        "tablet": 0.0243,
+        "tabletPrev": 0.0265,
+        "mobile": 0.1166,
+        "mobilePrev": 0.1052
+      },
+      "clicks": {
+        "desktop": 0.6984,
+        "desktopPrev": 0.9422,
+        "tablet": 0.0017,
+        "tabletPrev": 0.0017,
+        "mobile": 0.0747,
+        "mobilePrev": 0.0983
+      },
+      "revenue": {
+        "desktop": 0.0849,
+        "desktopPrev": 0.0882,
+        "tablet": 0.0213,
+        "tabletPrev": 0.0214,
+        "mobile": 0.0365,
+        "mobilePrev": 0.0328
+      }
+    },
+    "dimensions": {
+      "overall": 0.2554,
+      "overallPrev": 0.294,
+      "clicks": 0.0045,
+      "clicksPrev": 0.0042,
+      "impressions": 0.0672,
+      "impressionsPrev": 0.0704
+    },
+    "solo": 0.856
+  },
+  "BOL": {
+    "name": "Bolivia",
+    "participants": 7587305,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.6201,
+        "desktopPrev": 0.5988,
+        "tablet": 0.1349,
+        "tabletPrev": 0.1594,
+        "mobile": 0.1128,
+        "mobilePrev": 0.1143
+      },
+      "clicks": {
+        "desktop": 0.7293,
+        "desktopPrev": 0.9564,
+        "tablet": 0.0433,
+        "tabletPrev": 0.0463,
+        "mobile": 0.0989,
+        "mobilePrev": 0.0877
+      },
+      "revenue": {
+        "desktop": 0.3094,
+        "desktopPrev": 0.3444,
+        "tablet": 0.2045,
+        "tabletPrev": 0.2096,
+        "mobile": 0.0594,
+        "mobilePrev": 0.0698
+      }
+    },
+    "dimensions": {
+      "overall": 0.013,
+      "overallPrev": 0.0109,
+      "clicks": 0.0126,
+      "clicksPrev": 0.0129,
+      "impressions": 0.093,
+      "impressionsPrev": 0.1144
+    },
+    "solo": 0.8482
+  },
+  "BRA": {
+    "name": "Brazil",
+    "participants": 173629354,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.3547,
+        "desktopPrev": 0.39,
+        "tablet": 0.1024,
+        "tabletPrev": 0.0965,
+        "mobile": 0.1273,
+        "mobilePrev": 0.1366
+      },
+      "clicks": {
+        "desktop": 0.7769,
+        "desktopPrev": 0.5711,
+        "tablet": 0.0806,
+        "tabletPrev": 0.0834,
+        "mobile": 0.0154,
+        "mobilePrev": 0.0126
+      },
+      "revenue": {
+        "desktop": 0.5701,
+        "desktopPrev": 0.5471,
+        "tablet": 0.077,
+        "tabletPrev": 0.0825,
+        "mobile": 0.3164,
+        "mobilePrev": 0.2339
+      }
+    },
+    "dimensions": {
+      "overall": 0.2556,
+      "overallPrev": 0.237,
+      "clicks": 0.0465,
+      "clicksPrev": 0.04,
+      "impressions": 0.1273,
+      "impressionsPrev": 0.1244
+    },
+    "solo": 0.8916
+  },
+  "CHL": {
+    "name": "Chile",
+    "participants": 1693758,
+    "metrics": {
+      "conversions": {
+        "desktop": 1,
+        "desktopPrev": 1,
+        "tablet": 0.0854,
+        "tabletPrev": 0.0738,
+        "mobile": 0.0292,
+        "mobilePrev": 0.0316
+      },
+      "clicks": {
+        "desktop": 1,
+        "desktopPrev": 1,
+        "tablet": 0.0929,
+        "tabletPrev": 0.1073,
+        "mobile": 0.0207,
+        "mobilePrev": 0.0254
+      },
+      "revenue": {
+        "desktop": 1,
+        "desktopPrev": 1,
+        "tablet": 0.1124,
+        "tabletPrev": 0.1088,
+        "mobile": 0.031,
+        "mobilePrev": 0.0507
+      }
+    },
+    "dimensions": {
+      "overall": 0.0915,
+      "overallPrev": 0.0869,
+      "clicks": 0.3487,
+      "clicksPrev": 0.3617,
+      "impressions": 0.0008,
+      "impressionsPrev": 0.0011
+    },
+    "solo": 0.7903
+  },
+  "COL": {
+    "name": "Colombia",
+    "participants": 12237138,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.4184,
+        "desktopPrev": 0.4537,
+        "tablet": 0.364,
+        "tabletPrev": 0.3242,
+        "mobile": 0.0455,
+        "mobilePrev": 0.041
+      },
+      "clicks": {
+        "desktop": 0.306,
+        "desktopPrev": 0.4445,
+        "tablet": 0.3418,
+        "tabletPrev": 0.326,
+        "mobile": 0.0674,
+        "mobilePrev": 0.0774
+      },
+      "revenue": {
+        "desktop": 0.0211,
+        "desktopPrev": 0.0157,
+        "tablet": 0.2414,
+        "tabletPrev": 0.1567,
+        "mobile": 0.1169,
+        "mobilePrev": 0.1217
+      }
+    },
+    "dimensions": {
+      "overall": 0.2725,
+      "overallPrev": 0.2129,
+      "clicks": 0.5097,
+      "clicksPrev": 0.6038,
+      "impressions": 0.0879,
+      "impressionsPrev": 0.0594
+    },
+    "solo": 0.7411
+  },
+  "ECU": {
+    "name": "Ecuador",
+    "participants": 5810914,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.32,
+        "desktopPrev": 0.2769,
+        "tablet": 0.048,
+        "tabletPrev": 0.05,
+        "mobile": 0.2427,
+        "mobilePrev": 0.2469
+      },
+      "clicks": {
+        "desktop": 0.2381,
+        "desktopPrev": 0.2122,
+        "tablet": 0.0169,
+        "tabletPrev": 0.0209,
+        "mobile": 0.2069,
+        "mobilePrev": 0.1704
+      },
+      "revenue": {
+        "desktop": 1,
+        "desktopPrev": 1,
+        "tablet": 0.1046,
+        "tabletPrev": 0.1032,
+        "mobile": 0.2504,
+        "mobilePrev": 0.3014
+      }
+    },
+    "dimensions": {
+      "overall": 0.2879,
+      "overallPrev": 0.1868,
+      "clicks": 0.0321,
+      "clicksPrev": 0.0409,
+      "impressions": 0.1255,
+      "impressionsPrev": 0.1125
+    },
+    "solo": 0.9514
+  },
+  "FLK": {
+    "name": "Falkland Is.",
+    "participants": 1643,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.9004,
+        "desktopPrev": 1,
+        "tablet": 0.3432,
+        "tabletPrev": 0.5212,
+        "mobile": 0.0128,
+        "mobilePrev": 0.0105
+      },
+      "clicks": {
+        "desktop": 0.1346,
+        "desktopPrev": 0.1129,
+        "tablet": 0.2659,
+        "tabletPrev": 0.2658,
+        "mobile": 0.0197,
+        "mobilePrev": 0.0215
+      },
+      "revenue": {
+        "desktop": 0.5013,
+        "desktopPrev": 0.4661,
+        "tablet": 0.0296,
+        "tabletPrev": 0.0415,
+        "mobile": 0.0151,
+        "mobilePrev": 0.0164
+      }
+    },
+    "dimensions": {
+      "overall": 0.2935,
+      "overallPrev": 0.2132,
+      "clicks": 0.3173,
+      "clicksPrev": 0.2815,
+      "impressions": 0.0764,
+      "impressionsPrev": 0.0634
+    },
+    "solo": 0.9916
+  },
+  "GUY": {
+    "name": "Guyana",
+    "participants": 529423,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0794,
+        "desktopPrev": 0.0714,
+        "tablet": 0.1561,
+        "tabletPrev": 0.1228,
+        "mobile": 0.1278,
+        "mobilePrev": 0.1389
+      },
+      "clicks": {
+        "desktop": 0.5977,
+        "desktopPrev": 0.5881,
+        "tablet": 0.0817,
+        "tabletPrev": 0.0757,
+        "mobile": 0.1195,
+        "mobilePrev": 0.118
+      },
+      "revenue": {
+        "desktop": 0.2267,
+        "desktopPrev": 0.2352,
+        "tablet": 0.1851,
+        "tabletPrev": 0.1694,
+        "mobile": 0.0336,
+        "mobilePrev": 0.0363
+      }
+    },
+    "dimensions": {
+      "overall": 0.1314,
+      "overallPrev": 0.1593,
+      "clicks": 0.5692,
+      "clicksPrev": 0.6874,
+      "impressions": 0.0504,
+      "impressionsPrev": 0.0458
+    },
+    "solo": 0.8167
+  },
+  "PER": {
+    "name": "Peru",
+    "participants": 28267855,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.334,
+        "desktopPrev": 0.3036,
+        "tablet": 0.0931,
+        "tabletPrev": 0.0705,
+        "mobile": 0.2922,
+        "mobilePrev": 0.2979
+      },
+      "clicks": {
+        "desktop": 0.2579,
+        "desktopPrev": 0.2377,
+        "tablet": 0.0647,
+        "tabletPrev": 0.0551,
+        "mobile": 0.1089,
+        "mobilePrev": 0.0912
+      },
+      "revenue": {
+        "desktop": 0.4088,
+        "desktopPrev": 0.4069,
+        "tablet": 0.0792,
+        "tabletPrev": 0.0605,
+        "mobile": 0.2474,
+        "mobilePrev": 0.2302
+      }
+    },
+    "dimensions": {
+      "overall": 0.1819,
+      "overallPrev": 0.1951,
+      "clicks": 0.5859,
+      "clicksPrev": 0.6526,
+      "impressions": 0.1188,
+      "impressionsPrev": 0.1161
+    },
+    "solo": 0.9543
+  },
+  "PRY": {
+    "name": "Paraguay",
+    "participants": 2506850,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.1153,
+        "desktopPrev": 0.1109,
+        "tablet": 0.2485,
+        "tabletPrev": 0.2903,
+        "mobile": 0,
+        "mobilePrev": 0
+      },
+      "clicks": {
+        "desktop": 0.6836,
+        "desktopPrev": 0.7411,
+        "tablet": 0.0602,
+        "tabletPrev": 0.0554,
+        "mobile": 0.0261,
+        "mobilePrev": 0.0212
+      },
+      "revenue": {
+        "desktop": 0.7528,
+        "desktopPrev": 0.7392,
+        "tablet": 0.4598,
+        "tabletPrev": 0.3454,
+        "mobile": 0.0126,
+        "mobilePrev": 0.0137
+      }
+    },
+    "dimensions": {
+      "overall": 0.2977,
+      "overallPrev": 0.3079,
+      "clicks": 0.5002,
+      "clicksPrev": 0.5636,
+      "impressions": 0.0315,
+      "impressionsPrev": 0.0286
+    },
+    "solo": 0.8676
+  },
+  "SUR": {
+    "name": "Suriname",
+    "participants": 331436,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0081,
+        "desktopPrev": 0.0087,
+        "tablet": 0.0152,
+        "tabletPrev": 0.0164,
+        "mobile": 0.1466,
+        "mobilePrev": 0.1772
+      },
+      "clicks": {
+        "desktop": 0.1639,
+        "desktopPrev": 0.1568,
+        "tablet": 0.158,
+        "tabletPrev": 0.2066,
+        "mobile": 0.0521,
+        "mobilePrev": 0.0401
+      },
+      "revenue": {
+        "desktop": 0.5584,
+        "desktopPrev": 0.6708,
+        "tablet": 0.0023,
+        "tabletPrev": 0.0022,
+        "mobile": 0.1756,
+        "mobilePrev": 0.1516
+      }
+    },
+    "dimensions": {
+      "overall": 0.1335,
+      "overallPrev": 0.1284,
+      "clicks": 0.3836,
+      "clicksPrev": 0.5713,
+      "impressions": 0.0543,
+      "impressionsPrev": 0.0579
+    },
+    "solo": 0.937
+  },
+  "URY": {
+    "name": "Uruguay",
+    "participants": 1608432,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.9766,
+        "desktopPrev": 1,
+        "tablet": 0.0018,
+        "tabletPrev": 0.0016,
+        "mobile": 0.1056,
+        "mobilePrev": 0.1063
+      },
+      "clicks": {
+        "desktop": 0.6644,
+        "desktopPrev": 0.6191,
+        "tablet": 0.0597,
+        "tabletPrev": 0.0419,
+        "mobile": 0.2903,
+        "mobilePrev": 0.3102
+      },
+      "revenue": {
+        "desktop": 1,
+        "desktopPrev": 1,
+        "tablet": 0.0645,
+        "tabletPrev": 0.0817,
+        "mobile": 0.2309,
+        "mobilePrev": 0.1934
+      }
+    },
+    "dimensions": {
+      "overall": 0.0436,
+      "overallPrev": 0.0318,
+      "clicks": 0.6634,
+      "clicksPrev": 0.6783,
+      "impressions": 0.1511,
+      "impressionsPrev": 0.1637
+    },
+    "solo": 0.8259
+  },
+  "VEN": {
+    "name": "Venezuela",
+    "participants": 6047643,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.3401,
+        "desktopPrev": 0.2849,
+        "tablet": 0.0797,
+        "tabletPrev": 0.0792,
+        "mobile": 0.0333,
+        "mobilePrev": 0.0274
+      },
+      "clicks": {
+        "desktop": 0.5641,
+        "desktopPrev": 0.4997,
+        "tablet": 0.0266,
+        "tabletPrev": 0.0212,
+        "mobile": 0.385,
+        "mobilePrev": 0.3882
+      },
+      "revenue": {
+        "desktop": 0.6539,
+        "desktopPrev": 0.8309,
+        "tablet": 0.002,
+        "tabletPrev": 0.0018,
+        "mobile": 0.4009,
+        "mobilePrev": 0.4368
+      }
+    },
+    "dimensions": {
+      "overall": 0.0995,
+      "overallPrev": 0.0765,
+      "clicks": 0.2074,
+      "clicksPrev": 0.2559,
+      "impressions": 0.0006,
+      "impressionsPrev": 0.0006
+    },
+    "solo": 0.9925
+  },
+  "GUF": {
+    "name": "French Guiana",
+    "participants": 205326,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.2421,
+        "desktopPrev": 0.2585,
+        "tablet": 0.1239,
+        "tabletPrev": 0.1103,
+        "mobile": 0.0375,
+        "mobilePrev": 0.0395
+      },
+      "clicks": {
+        "desktop": 0.5981,
+        "desktopPrev": 0.7031,
+        "tablet": 0.1565,
+        "tabletPrev": 0.195,
+        "mobile": 0.5511,
+        "mobilePrev": 0.4809
+      },
+      "revenue": {
+        "desktop": 0.4494,
+        "desktopPrev": 0.3062,
+        "tablet": 0.0513,
+        "tabletPrev": 0.0727,
+        "mobile": 0.0459,
+        "mobilePrev": 0.0436
+      }
+    },
+    "dimensions": {
+      "overall": 0.032,
+      "overallPrev": 0.0347,
+      "clicks": 0.6814,
+      "clicksPrev": 0.8278,
+      "impressions": 0.1433,
+      "impressionsPrev": 0.1175
+    },
+    "solo": 0.8402
+  },
+  "OC": {
+    "name": "Oceania",
+    "participants": 18181568,
+    "solo": 0.8382,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.1231,
+        "desktopPrev": 0.1285,
+        "tablet": 0.1889,
+        "tabletPrev": 0.1843,
+        "mobile": 0.1995,
+        "mobilePrev": 0.1963
+      },
+      "clicks": {
+        "desktop": 0.2648,
+        "desktopPrev": 0.2862,
+        "tablet": 0.1628,
+        "tabletPrev": 0.1604,
+        "mobile": 0.0862,
+        "mobilePrev": 0.0961
+      },
+      "revenue": {
+        "desktop": 0.159,
+        "desktopPrev": 0.1671,
+        "tablet": 0.1751,
+        "tabletPrev": 0.2084,
+        "mobile": 0.3986,
+        "mobilePrev": 0.3725
+      }
+    },
+    "dimensions": {
+      "overall": 0.0595,
+      "overallPrev": 0,
+      "clicks": 0.2618,
+      "clicksPrev": 0,
+      "impressions": 0.2232,
+      "impressionsPrev": 0
+    }
+  },
+  "AUS": {
+    "name": "Australia",
+    "participants": 13482941,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.087,
+        "desktopPrev": 0.0803,
+        "tablet": 0.1735,
+        "tabletPrev": 0.1547,
+        "mobile": 0.2105,
+        "mobilePrev": 0.2083
+      },
+      "clicks": {
+        "desktop": 0.2481,
+        "desktopPrev": 0.2664,
+        "tablet": 0.1696,
+        "tabletPrev": 0.1638,
+        "mobile": 0.0047,
+        "mobilePrev": 0.0045
+      },
+      "revenue": {
+        "desktop": 0.1816,
+        "desktopPrev": 0.1942,
+        "tablet": 0.1932,
+        "tabletPrev": 0.2375,
+        "mobile": 0.451,
+        "mobilePrev": 0.417
+      }
+    },
+    "dimensions": {
+      "overall": 0.0665,
+      "overallPrev": 0.0837,
+      "clicks": 0.257,
+      "clicksPrev": 0.3554,
+      "impressions": 0.1912,
+      "impressionsPrev": 0.151
+    },
+    "solo": 0.8512
+  },
+  "FJI": {
+    "name": "Fiji",
+    "participants": 394133,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.2229,
+        "desktopPrev": 0.3117,
+        "tablet": 0.3363,
+        "tabletPrev": 0.4825,
+        "mobile": 0.3086,
+        "mobilePrev": 0.2687
+      },
+      "clicks": {
+        "desktop": 0,
+        "desktopPrev": 0.0001,
+        "tablet": 0.2196,
+        "tabletPrev": 0.2518,
+        "mobile": 0.2173,
+        "mobilePrev": 0.225
+      },
+      "revenue": {
+        "desktop": 0.0221,
+        "desktopPrev": 0.0234,
+        "tablet": 0.2844,
+        "tabletPrev": 0.2545,
+        "mobile": 0.0207,
+        "mobilePrev": 0.0178
+      }
+    },
+    "dimensions": {
+      "overall": 0.1477,
+      "overallPrev": 0.1605,
+      "clicks": 0.0083,
+      "clicksPrev": 0.0069,
+      "impressions": 0.4639,
+      "impressionsPrev": 0.3844
+    },
+    "solo": 0.8747
+  },
+  "NCL": {
+    "name": "New Caledonia",
+    "participants": 46250,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.108,
+        "desktopPrev": 0.1069,
+        "tablet": 0.6054,
+        "tabletPrev": 0.5498,
+        "mobile": 0.4322,
+        "mobilePrev": 0.4227
+      },
+      "clicks": {
+        "desktop": 0.014,
+        "desktopPrev": 0.0125,
+        "tablet": 0.7405,
+        "tabletPrev": 0.6362,
+        "mobile": 0.0221,
+        "mobilePrev": 0.0304
+      },
+      "revenue": {
+        "desktop": 0.0241,
+        "desktopPrev": 0.0262,
+        "tablet": 0.323,
+        "tabletPrev": 0.2753,
+        "mobile": 0.3909,
+        "mobilePrev": 0.4896
+      }
+    },
+    "dimensions": {
+      "overall": 0.133,
+      "overallPrev": 0.1576,
+      "clicks": 0.2744,
+      "clicksPrev": 0.3409,
+      "impressions": 0.3234,
+      "impressionsPrev": 0.3152
+    },
+    "solo": 0.9748
+  },
+  "NZL": {
+    "name": "New Zealand",
+    "participants": 1018291,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.1176,
+        "desktopPrev": 0.1512,
+        "tablet": 0.469,
+        "tabletPrev": 0.4976,
+        "mobile": 0.3581,
+        "mobilePrev": 0.364
+      },
+      "clicks": {
+        "desktop": 0.3367,
+        "desktopPrev": 0.3639,
+        "tablet": 0.1915,
+        "tabletPrev": 0.2276,
+        "mobile": 0.4395,
+        "mobilePrev": 0.4093
+      },
+      "revenue": {
+        "desktop": 0.0012,
+        "desktopPrev": 0.0016,
+        "tablet": 0.0898,
+        "tabletPrev": 0.0979,
+        "mobile": 0.3892,
+        "mobilePrev": 0.3719
+      }
+    },
+    "dimensions": {
+      "overall": 0.0236,
+      "overallPrev": 0.0208,
+      "clicks": 0.131,
+      "clicksPrev": 0.1364,
+      "impressions": 0.1866,
+      "impressionsPrev": 0.2565
+    },
+    "solo": 0.9884
+  },
+  "PNG": {
+    "name": "Papua New Guinea",
+    "participants": 1936252,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.269,
+        "desktopPrev": 0.3584,
+        "tablet": 0.1314,
+        "tabletPrev": 0.1655,
+        "mobile": 0.0198,
+        "mobilePrev": 0.027
+      },
+      "clicks": {
+        "desktop": 0.4832,
+        "desktopPrev": 0.5463,
+        "tablet": 0.0678,
+        "tabletPrev": 0.0621,
+        "mobile": 0.2125,
+        "mobilePrev": 0.2513
+      },
+      "revenue": {
+        "desktop": 0.1032,
+        "desktopPrev": 0.1071,
+        "tablet": 0.1349,
+        "tabletPrev": 0.1493,
+        "mobile": 0.1903,
+        "mobilePrev": 0.1783
+      }
+    },
+    "dimensions": {
+      "overall": 0.0211,
+      "overallPrev": 0.0193,
+      "clicks": 0.3051,
+      "clicksPrev": 0.4051,
+      "impressions": 0.3709,
+      "impressionsPrev": 0.3903
+    },
+    "solo": 0.6231
+  },
+  "SLB": {
+    "name": "Solomon Is.",
+    "participants": 137774,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0062,
+        "desktopPrev": 0.0071,
+        "tablet": 0.5177,
+        "tabletPrev": 0.5992,
+        "mobile": 0.1766,
+        "mobilePrev": 0.1725
+      },
+      "clicks": {
+        "desktop": 0.0325,
+        "desktopPrev": 0.0324,
+        "tablet": 0.5636,
+        "tabletPrev": 0.574,
+        "mobile": 0.3244,
+        "mobilePrev": 0.3237
+      },
+      "revenue": {
+        "desktop": 0.135,
+        "desktopPrev": 0.0959,
+        "tablet": 0.5869,
+        "tabletPrev": 0.4979,
+        "mobile": 0.5291,
+        "mobilePrev": 0.4475
+      }
+    },
+    "dimensions": {
+      "overall": 0.0347,
+      "overallPrev": 0.0231,
+      "clicks": 0.2896,
+      "clicksPrev": 0.2754,
+      "impressions": 0.0135,
+      "impressionsPrev": 0.0122
+    },
+    "solo": 0.9301
+  },
+  "TLS": {
+    "name": "Timor-Leste",
+    "participants": 1053023,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.2906,
+        "desktopPrev": 0.2445,
+        "tablet": 0.0947,
+        "tabletPrev": 0.0902,
+        "mobile": 0.1334,
+        "mobilePrev": 0.128
+      },
+      "clicks": {
+        "desktop": 0.1672,
+        "desktopPrev": 0.1596,
+        "tablet": 0.085,
+        "tabletPrev": 0.0901,
+        "mobile": 0.4433,
+        "mobilePrev": 0.5723
+      },
+      "revenue": {
+        "desktop": 0.1822,
+        "desktopPrev": 0.1633,
+        "tablet": 0.0012,
+        "tabletPrev": 0.0013,
+        "mobile": 0.2786,
+        "mobilePrev": 0.3077
+      }
+    },
+    "dimensions": {
+      "overall": 0.0325,
+      "overallPrev": 0.0326,
+      "clicks": 0.4506,
+      "clicksPrev": 0.3781,
+      "impressions": 0.3091,
+      "impressionsPrev": 0.3619
+    },
+    "solo": 0.92
+  },
+  "VUT": {
+    "name": "Vanuatu",
+    "participants": 112904,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.2222,
+        "desktopPrev": 0.1687,
+        "tablet": 0.287,
+        "tabletPrev": 0.392,
+        "mobile": 0.7046,
+        "mobilePrev": 0.4785
+      },
+      "clicks": {
+        "desktop": 0.0804,
+        "desktopPrev": 0.0843,
+        "tablet": 0.5294,
+        "tabletPrev": 0.4788,
+        "mobile": 0.4095,
+        "mobilePrev": 0.3984
+      },
+      "revenue": {
+        "desktop": 0.1784,
+        "desktopPrev": 0.1301,
+        "tablet": 0.142,
+        "tabletPrev": 0.1378,
+        "mobile": 0.0769,
+        "mobilePrev": 0.0917
+      }
+    },
+    "dimensions": {
+      "overall": 0.1488,
+      "overallPrev": 0.1447,
+      "clicks": 0.3558,
+      "clicksPrev": 0.2932,
+      "impressions": 0.4226,
+      "impressionsPrev": 0.3577
+    },
+    "solo": 0.5611
+  },
+  "NA": {
+    "name": "North America",
+    "participants": 246170738,
+    "solo": 0.7012,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.6298,
+        "desktopPrev": 0.6511,
+        "tablet": 0.3261,
+        "tabletPrev": 0.3232,
+        "mobile": 0.048,
+        "mobilePrev": 0.0522
+      },
+      "clicks": {
+        "desktop": 0.3676,
+        "desktopPrev": 0.4025,
+        "tablet": 0.1466,
+        "tabletPrev": 0.1511,
+        "mobile": 0.0573,
+        "mobilePrev": 0.0559
+      },
+      "revenue": {
+        "desktop": 0.2907,
+        "desktopPrev": 0.2873,
+        "tablet": 0.3694,
+        "tabletPrev": 0.2822,
+        "mobile": 0.073,
+        "mobilePrev": 0.0737
+      }
+    },
+    "dimensions": {
+      "overall": 0.2074,
+      "overallPrev": 0,
+      "clicks": 0.1976,
+      "clicksPrev": 0,
+      "impressions": 0.0093,
+      "impressionsPrev": 0
+    }
+  },
+  "BHS": {
+    "name": "Bahamas",
+    "participants": 305335,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.2997,
+        "desktopPrev": 0.2753,
+        "tablet": 0.1241,
+        "tabletPrev": 0.103,
+        "mobile": 0.0541,
+        "mobilePrev": 0.0652
+      },
+      "clicks": {
+        "desktop": 0.1798,
+        "desktopPrev": 0.1903,
+        "tablet": 0.092,
+        "tabletPrev": 0.0847,
+        "mobile": 0.0808,
+        "mobilePrev": 0.0943
+      },
+      "revenue": {
+        "desktop": 0.0391,
+        "desktopPrev": 0.0371,
+        "tablet": 0.1274,
+        "tabletPrev": 0.144,
+        "mobile": 0.1824,
+        "mobilePrev": 0.1927
+      }
+    },
+    "dimensions": {
+      "overall": 0.2642,
+      "overallPrev": 0.2662,
+      "clicks": 0.3574,
+      "clicksPrev": 0.3431,
+      "impressions": 0.0085,
+      "impressionsPrev": 0.0115
+    },
+    "solo": 0.9698
+  },
+  "BLZ": {
+    "name": "Belize",
+    "participants": 323,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.449,
+        "desktopPrev": 0.5545,
+        "tablet": 0.2456,
+        "tabletPrev": 0.2337,
+        "mobile": 0.0273,
+        "mobilePrev": 0.0247
+      },
+      "clicks": {
+        "desktop": 0.1402,
+        "desktopPrev": 0.1355,
+        "tablet": 0.126,
+        "tabletPrev": 0.1496,
+        "mobile": 0.038,
+        "mobilePrev": 0.0342
+      },
+      "revenue": {
+        "desktop": 0.5698,
+        "desktopPrev": 0.6102,
+        "tablet": 0.1994,
+        "tabletPrev": 0.1955,
+        "mobile": 0.0477,
+        "mobilePrev": 0.0479
+      }
+    },
+    "dimensions": {
+      "overall": 0.503,
+      "overallPrev": 0.5045,
+      "clicks": 0.1875,
+      "clicksPrev": 0.1393,
+      "impressions": 0.0001,
+      "impressionsPrev": 0.0001
+    },
+    "solo": 0.6135
+  },
+  "CAN": {
+    "name": "Canada",
+    "participants": 28737173,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.6314,
+        "desktopPrev": 0.4383,
+        "tablet": 0.3106,
+        "tabletPrev": 0.3142,
+        "mobile": 0.1377,
+        "mobilePrev": 0.128
+      },
+      "clicks": {
+        "desktop": 0.5227,
+        "desktopPrev": 0.5379,
+        "tablet": 0.3096,
+        "tabletPrev": 0.2734,
+        "mobile": 0.1524,
+        "mobilePrev": 0.1266
+      },
+      "revenue": {
+        "desktop": 0.7353,
+        "desktopPrev": 0.6566,
+        "tablet": 0.103,
+        "tabletPrev": 0.1263,
+        "mobile": 0.1255,
+        "mobilePrev": 0.1588
+      }
+    },
+    "dimensions": {
+      "overall": 0.479,
+      "overallPrev": 0.4793,
+      "clicks": 0.3056,
+      "clicksPrev": 0.23,
+      "impressions": 0.0016,
+      "impressionsPrev": 0.0015
+    },
+    "solo": 0.6307
+  },
+  "CRI": {
+    "name": "Costa Rica",
+    "participants": 3556226,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.4401,
+        "desktopPrev": 0.4553,
+        "tablet": 0.2582,
+        "tabletPrev": 0.3399,
+        "mobile": 0.0961,
+        "mobilePrev": 0.108
+      },
+      "clicks": {
+        "desktop": 0.337,
+        "desktopPrev": 0.3918,
+        "tablet": 0.5982,
+        "tabletPrev": 0.5538,
+        "mobile": 0.1141,
+        "mobilePrev": 0.141
+      },
+      "revenue": {
+        "desktop": 0.3964,
+        "desktopPrev": 0.4316,
+        "tablet": 0.2216,
+        "tabletPrev": 0.1789,
+        "mobile": 0.1405,
+        "mobilePrev": 0.1102
+      }
+    },
+    "dimensions": {
+      "overall": 0.5186,
+      "overallPrev": 0.5283,
+      "clicks": 0.322,
+      "clicksPrev": 0.3654,
+      "impressions": 0.0106,
+      "impressionsPrev": 0.011
+    },
+    "solo": 0.9274
+  },
+  "CUB": {
+    "name": "Cuba",
+    "participants": 6128695,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.8176,
+        "desktopPrev": 0.8644,
+        "tablet": 0.1244,
+        "tabletPrev": 0.2029,
+        "mobile": 0.0083,
+        "mobilePrev": 0.0103
+      },
+      "clicks": {
+        "desktop": 0.4252,
+        "desktopPrev": 0.3963,
+        "tablet": 0.319,
+        "tabletPrev": 0.3204,
+        "mobile": 0.0038,
+        "mobilePrev": 0.0033
+      },
+      "revenue": {
+        "desktop": 0.281,
+        "desktopPrev": 0.436,
+        "tablet": 0.1757,
+        "tabletPrev": 0.1702,
+        "mobile": 0.0239,
+        "mobilePrev": 0.0276
+      }
+    },
+    "dimensions": {
+      "overall": 0.1281,
+      "overallPrev": 0.1302,
+      "clicks": 0.1465,
+      "clicksPrev": 0.146,
+      "impressions": 0.0137,
+      "impressionsPrev": 0.0132
+    },
+    "solo": 0.7682
+  },
+  "DOM": {
+    "name": "Dominican Rep.",
+    "participants": 5987402,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.5131,
+        "desktopPrev": 0.4681,
+        "tablet": 0.0089,
+        "tabletPrev": 0.0072,
+        "mobile": 0.0003,
+        "mobilePrev": 0.0002
+      },
+      "clicks": {
+        "desktop": 0.1211,
+        "desktopPrev": 0.1222,
+        "tablet": 0.5247,
+        "tabletPrev": 0.6442,
+        "mobile": 0.0342,
+        "mobilePrev": 0.0298
+      },
+      "revenue": {
+        "desktop": 0.509,
+        "desktopPrev": 0.5152,
+        "tablet": 0.0418,
+        "tabletPrev": 0.0581,
+        "mobile": 0.0765,
+        "mobilePrev": 0.0927
+      }
+    },
+    "dimensions": {
+      "overall": 0.2053,
+      "overallPrev": 0.2098,
+      "clicks": 0.0308,
+      "clicksPrev": 0.0351,
+      "impressions": 0.0024,
+      "impressionsPrev": 0.003
+    },
+    "solo": 0.7249
+  },
+  "GRL": {
+    "name": "Greenland",
+    "participants": 17162,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.9521,
+        "desktopPrev": 0.8623,
+        "tablet": 0.2446,
+        "tabletPrev": 0.3011,
+        "mobile": 0.0352,
+        "mobilePrev": 0.0324
+      },
+      "clicks": {
+        "desktop": 0.0411,
+        "desktopPrev": 0.0447,
+        "tablet": 0.4297,
+        "tabletPrev": 0.5339,
+        "mobile": 0.0441,
+        "mobilePrev": 0.0455
+      },
+      "revenue": {
+        "desktop": 0.3704,
+        "desktopPrev": 0.4701,
+        "tablet": 0.0548,
+        "tabletPrev": 0.0695,
+        "mobile": 0.0296,
+        "mobilePrev": 0.0282
+      }
+    },
+    "dimensions": {
+      "overall": 0.6279,
+      "overallPrev": 0.8126,
+      "clicks": 0.159,
+      "clicksPrev": 0.168,
+      "impressions": 0.0128,
+      "impressionsPrev": 0.0163
+    },
+    "solo": 0.6875
+  },
+  "GTM": {
+    "name": "Guatemala",
+    "participants": 4247067,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.7155,
+        "desktopPrev": 0.5941,
+        "tablet": 0.458,
+        "tabletPrev": 0.4472,
+        "mobile": 0.0066,
+        "mobilePrev": 0.009
+      },
+      "clicks": {
+        "desktop": 0.5196,
+        "desktopPrev": 0.5515,
+        "tablet": 0.1273,
+        "tabletPrev": 0.099,
+        "mobile": 0.0674,
+        "mobilePrev": 0.0631
+      },
+      "revenue": {
+        "desktop": 0.5442,
+        "desktopPrev": 0.5566,
+        "tablet": 0.4612,
+        "tabletPrev": 0.4305,
+        "mobile": 0.0278,
+        "mobilePrev": 0.0321
+      }
+    },
+    "dimensions": {
+      "overall": 0.1607,
+      "overallPrev": 0.1579,
+      "clicks": 0.5417,
+      "clicksPrev": 0.4894,
+      "impressions": 0.0064,
+      "impressionsPrev": 0.0064
+    },
+    "solo": 0.8221
+  },
+  "HND": {
+    "name": "Honduras",
+    "participants": 7625194,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.2134,
+        "desktopPrev": 0.2261,
+        "tablet": 0.3651,
+        "tabletPrev": 0.3998,
+        "mobile": 0.0771,
+        "mobilePrev": 0.0911
+      },
+      "clicks": {
+        "desktop": 0.0219,
+        "desktopPrev": 0.0246,
+        "tablet": 0.8105,
+        "tabletPrev": 0.678,
+        "mobile": 0.0651,
+        "mobilePrev": 0.0552
+      },
+      "revenue": {
+        "desktop": 0.0789,
+        "desktopPrev": 0.0668,
+        "tablet": 0.1385,
+        "tabletPrev": 0.1911,
+        "mobile": 0.0744,
+        "mobilePrev": 0.0637
+      }
+    },
+    "dimensions": {
+      "overall": 0.8062,
+      "overallPrev": 0.5832,
+      "clicks": 0.3702,
+      "clicksPrev": 0.3357,
+      "impressions": 0.0104,
+      "impressionsPrev": 0.0124
+    },
+    "solo": 0.7223
+  },
+  "HTI": {
+    "name": "Haiti",
+    "participants": 159801,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.8864,
+        "desktopPrev": 0.8851,
+        "tablet": 0.0111,
+        "tabletPrev": 0.0099,
+        "mobile": 0.0067,
+        "mobilePrev": 0.0064
+      },
+      "clicks": {
+        "desktop": 0.5561,
+        "desktopPrev": 0.5331,
+        "tablet": 0.0297,
+        "tabletPrev": 0.0311,
+        "mobile": 0.0505,
+        "mobilePrev": 0.057
+      },
+      "revenue": {
+        "desktop": 0.1784,
+        "desktopPrev": 0.2013,
+        "tablet": 0.0404,
+        "tabletPrev": 0.0385,
+        "mobile": 0.0999,
+        "mobilePrev": 0.0923
+      }
+    },
+    "dimensions": {
+      "overall": 0.4016,
+      "overallPrev": 0.4506,
+      "clicks": 0.2355,
+      "clicksPrev": 0.2086,
+      "impressions": 0.0056,
+      "impressionsPrev": 0.0061
+    },
+    "solo": 0.9038
+  },
+  "JAM": {
+    "name": "Jamaica",
+    "participants": 1066858,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.3793,
+        "desktopPrev": 0.356,
+        "tablet": 0.0842,
+        "tabletPrev": 0.0874,
+        "mobile": 0.0046,
+        "mobilePrev": 0.0057
+      },
+      "clicks": {
+        "desktop": 0.1557,
+        "desktopPrev": 0.1606,
+        "tablet": 0.129,
+        "tabletPrev": 0.1276,
+        "mobile": 0.1681,
+        "mobilePrev": 0.124
+      },
+      "revenue": {
+        "desktop": 0.4082,
+        "desktopPrev": 0.4226,
+        "tablet": 0.0963,
+        "tabletPrev": 0.0888,
+        "mobile": 0.0786,
+        "mobilePrev": 0.0777
+      }
+    },
+    "dimensions": {
+      "overall": 0.2847,
+      "overallPrev": 0.3339,
+      "clicks": 0.4691,
+      "clicksPrev": 0.4931,
+      "impressions": 0.0043,
+      "impressionsPrev": 0.0049
+    },
+    "solo": 0.5683
+  },
+  "MEX": {
+    "name": "Mexico",
+    "participants": 80043726,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.6645,
+        "desktopPrev": 0.74,
+        "tablet": 0.2062,
+        "tabletPrev": 0.2086,
+        "mobile": 0.0493,
+        "mobilePrev": 0.0643
+      },
+      "clicks": {
+        "desktop": 0.5719,
+        "desktopPrev": 0.6828,
+        "tablet": 0.1103,
+        "tabletPrev": 0.1483,
+        "mobile": 0.0112,
+        "mobilePrev": 0.0108
+      },
+      "revenue": {
+        "desktop": 0.4787,
+        "desktopPrev": 0.4858,
+        "tablet": 0.4839,
+        "tabletPrev": 0.3305,
+        "mobile": 0.0444,
+        "mobilePrev": 0.0466
+      }
+    },
+    "dimensions": {
+      "overall": 0.2173,
+      "overallPrev": 0.1822,
+      "clicks": 0.0377,
+      "clicksPrev": 0.0381,
+      "impressions": 0.0125,
+      "impressionsPrev": 0.0153
+    },
+    "solo": 0.7269
+  },
+  "NIC": {
+    "name": "Nicaragua",
+    "participants": 4555120,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0209,
+        "desktopPrev": 0.0168,
+        "tablet": 0.2574,
+        "tabletPrev": 0.3019,
+        "mobile": 0.066,
+        "mobilePrev": 0.0658
+      },
+      "clicks": {
+        "desktop": 0.1969,
+        "desktopPrev": 0.2525,
+        "tablet": 0.2393,
+        "tabletPrev": 0.1801,
+        "mobile": 0.0202,
+        "mobilePrev": 0.017
+      },
+      "revenue": {
+        "desktop": 0.3423,
+        "desktopPrev": 0.3064,
+        "tablet": 0.2251,
+        "tabletPrev": 0.2966,
+        "mobile": 0.063,
+        "mobilePrev": 0.0603
+      }
+    },
+    "dimensions": {
+      "overall": 0.5395,
+      "overallPrev": 0.6364,
+      "clicks": 0.0398,
+      "clicksPrev": 0.0421,
+      "impressions": 0.0072,
+      "impressionsPrev": 0.0088
+    },
+    "solo": 0.8183
+  },
+  "PAN": {
+    "name": "Panama",
+    "participants": 2587371,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0171,
+        "desktopPrev": 0.0223,
+        "tablet": 0.6026,
+        "tabletPrev": 0.5974,
+        "mobile": 0.0297,
+        "mobilePrev": 0.0292
+      },
+      "clicks": {
+        "desktop": 0.1999,
+        "desktopPrev": 0.1656,
+        "tablet": 0.5774,
+        "tabletPrev": 0.5712,
+        "mobile": 0.0182,
+        "mobilePrev": 0.0208
+      },
+      "revenue": {
+        "desktop": 0.035,
+        "desktopPrev": 0.0348,
+        "tablet": 0.6558,
+        "tabletPrev": 0.81,
+        "mobile": 0.1384,
+        "mobilePrev": 0.1443
+      }
+    },
+    "dimensions": {
+      "overall": 0.5859,
+      "overallPrev": 0.6927,
+      "clicks": 0.3156,
+      "clicksPrev": 0.4424,
+      "impressions": 0.0045,
+      "impressionsPrev": 0.0058
+    },
+    "solo": 0.8685
+  },
+  "PRI": {
+    "name": "Puerto Rico",
+    "participants": 2522786,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.3958,
+        "desktopPrev": 0.4143,
+        "tablet": 0.3896,
+        "tabletPrev": 0.2822,
+        "mobile": 0.0097,
+        "mobilePrev": 0.0091
+      },
+      "clicks": {
+        "desktop": 0.1959,
+        "desktopPrev": 0.2369,
+        "tablet": 0.1686,
+        "tabletPrev": 0.1546,
+        "mobile": 0.0656,
+        "mobilePrev": 0.0689
+      },
+      "revenue": {
+        "desktop": 0.1257,
+        "desktopPrev": 0.1201,
+        "tablet": 0.4465,
+        "tabletPrev": 0.5879,
+        "mobile": 0.0504,
+        "mobilePrev": 0.049
+      }
+    },
+    "dimensions": {
+      "overall": 0.3788,
+      "overallPrev": 0.3748,
+      "clicks": 0.3504,
+      "clicksPrev": 0.3823,
+      "impressions": 0.0049,
+      "impressionsPrev": 0.005
+    },
+    "solo": 0.8092
+  },
+  "SLV": {
+    "name": "El Salvador",
+    "participants": 3490113,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.5521,
+        "desktopPrev": 0.7329,
+        "tablet": 0.0078,
+        "tabletPrev": 0.0087,
+        "mobile": 0.0336,
+        "mobilePrev": 0.0269
+      },
+      "clicks": {
+        "desktop": 0.8602,
+        "desktopPrev": 0.8569,
+        "tablet": 0.0836,
+        "tabletPrev": 0.0815,
+        "mobile": 0.0008,
+        "mobilePrev": 0.0012
+      },
+      "revenue": {
+        "desktop": 0.136,
+        "desktopPrev": 0.1104,
+        "tablet": 0.6642,
+        "tabletPrev": 0.5934,
+        "mobile": 0.01,
+        "mobilePrev": 0.0078
+      }
+    },
+    "dimensions": {
+      "overall": 0.5602,
+      "overallPrev": 0.6615,
+      "clicks": 0.4507,
+      "clicksPrev": 0.5918,
+      "impressions": 0.002,
+      "impressionsPrev": 0.0018
+    },
+    "solo": 0.8642
+  },
+  "TTO": {
+    "name": "Trinidad and Tobago",
+    "participants": 816411,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.0236,
+        "desktopPrev": 0.0224,
+        "tablet": 0.064,
+        "tabletPrev": 0.0731,
+        "mobile": 0.0631,
+        "mobilePrev": 0.0618
+      },
+      "clicks": {
+        "desktop": 0.0471,
+        "desktopPrev": 0.047,
+        "tablet": 0.7539,
+        "tabletPrev": 0.773,
+        "mobile": 0.0449,
+        "mobilePrev": 0.0437
+      },
+      "revenue": {
+        "desktop": 0.0413,
+        "desktopPrev": 0.0437,
+        "tablet": 0.2561,
+        "tabletPrev": 0.2293,
+        "mobile": 0.0838,
+        "mobilePrev": 0.0802
+      }
+    },
+    "dimensions": {
+      "overall": 0.6386,
+      "overallPrev": 0.5511,
+      "clicks": 0.522,
+      "clicksPrev": 0.453,
+      "impressions": 0.005,
+      "impressionsPrev": 0.0045
+    },
+    "solo": 0.638
+  },
+  "USA": {
+    "name": "United States",
+    "participants": 94323975,
+    "metrics": {
+      "conversions": {
+        "desktop": 0.6959,
+        "desktopPrev": 0.7433,
+        "tablet": 0.4713,
+        "tabletPrev": 0.4509,
+        "mobile": 0.0245,
+        "mobilePrev": 0.024
+      },
+      "clicks": {
+        "desktop": 0.1858,
+        "desktopPrev": 0.1735,
+        "tablet": 0.0034,
+        "tabletPrev": 0.0032,
+        "mobile": 0.0728,
+        "mobilePrev": 0.078
+      },
+      "revenue": {
+        "desktop": 0.0006,
+        "desktopPrev": 0.001,
+        "tablet": 0.3986,
+        "tabletPrev": 0.2834,
+        "mobile": 0.0848,
+        "mobilePrev": 0.0752
+      }
+    },
+    "dimensions": {
+      "overall": 0.0142,
+      "overallPrev": 0.013,
+      "clicks": 0.2646,
+      "clicksPrev": 0.2467,
+      "impressions": 0.0097,
+      "impressionsPrev": 0.0097
+    },
+    "solo": 0.661
+  }
+}
