@@ -3,6 +3,7 @@ var path = require('path');
 var webpackConfig = require("./webpack.config.js");
 var nodeModulesPath = path.resolve(__dirname, 'node_modules');
 var publicPath = path.resolve(__dirname, 'public');
+var deployRoot = path.resolve(__dirname, 'docs');
 var deployPath = path.resolve(__dirname, 'docs','webpack_build');
 var mainPath = path.resolve(__dirname, 'src', 'ractivePOC', 'entry.js');
 
@@ -41,7 +42,7 @@ var config = {
             }
         }),
         new Webpack.optimize.UglifyJsPlugin(),
-        //new CopyWebpackPlugin([{from: publicPath, to: deployPath}]),
+        new CopyWebpackPlugin([{from: publicPath, to: deployRoot}]),
         new ExtractTextPlugin("styles.css")
     ]
 };
